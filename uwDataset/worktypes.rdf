@@ -1,0 +1,1486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+             xmlns:vra="http://purl.org/vra/"
+             xmlns:uwsub="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#"
+             xmlns:uwext="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/extensions#">
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name/>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#archaeologicalsites">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>archaeological sites</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#gymnasiums">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>gymnasiums</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#ArkhangelskiigosudarstvennyimuzeidereviannogozodchestvaInarodnogoiskusstva&#34;MalyeKorely&#34;">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>Arkhangel'skii gosudarstvennyi muzei dereviannogo zodchestva I narodnogo iskusstva "Malye Korely"</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#Carnivalpre-Lentenfestival">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>Carnival (pre-Lenten festival)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#Dzhalil,Musa">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>Dzhalil', Musa</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#Kuskov,IvanAleksandrovich,1765-1823">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>Kuskov, Ivan Aleksandrovich, 1765-1823</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#Lenin,VladimirIlich,1870-1924">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>Lenin, Vladimir Il'ich, 1870-1924</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#Muravev-Amurskii,NikolaiNikolaevich,1809-1881">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>Murav'ev-Amurskii, Nikolai Nikolaevich, 1809-1881</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#ParisFrance-History-Commune,1871">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>Paris (France) - History - Commune, 1871</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#Romanov,MikhailNikitich">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>Romanov, Mikhail Nikitich</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#Sheremetevfamily">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>Sheremetev family</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#Stroganovfamily">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>Stroganov family</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#Tchaikovsky,PeterIlich,1840-1893">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>Tchaikovsky, Peter Ilich, 1840-1893</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#abandonedfarms">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>abandoned farms</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#academiesbuildings">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>academies (buildings)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#administrationbuildings">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>administration buildings</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#agriculturalbuildings">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>agricultural buildings</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#airports">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>airports</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#almshouses">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>almshouses</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#annexesbuildingdivisions">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>annexes (building divisions)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#apartmenthouses">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>apartment houses</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#arcadesstructuralassemblies">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>arcades (structural assemblies)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#archivesbuildings">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>archives (buildings)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#arenas">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>arenas</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#arenassportsbuildings">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>arenas (sports buildings)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#arsenals">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>arsenals</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#artcenters">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>art centers</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#assemblyhalls">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>assembly halls</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#athleticclubs">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>athletic clubs</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#banksfinancialinstitutions">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>banks (financial institutions)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#banksfinancialinstitutions">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>banks (financial institutions)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#baptisteries">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>baptisteries</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#barns">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>barns</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#barracks">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>barracks</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#bastions">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>bastions</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#bathhouseswaterrecreationstructures">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>bathhouses (water recreation structures)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#bellcotes">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>bell cotes</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#belltowers">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>bell towers</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#bellsidiophones">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>bells (idiophones)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#boathouses">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>boathouses</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#boats">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>boats</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#bodiesofwater">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>bodies of water</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#bouldevards">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>bouldevards</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#boundarywalls">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>boundary walls</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#breweries">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>breweries</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#bridgesbuiltworks">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>bridges (built works)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#buildingsites">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>building sites</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#buildingsstructures">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>buildings (structures)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#bunkhouses">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>bunkhouses</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#burialchambers">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>burial chambers</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#busstations">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>bus stations</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#cabinetscasefurniture">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>cabinets (case furniture)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#cairns">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>cairns</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#canals">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>canals</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#cannonsartillery">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>cannons (artillery)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#canopiesstructuralelements">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>canopies (structural elements)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#carriagehouses">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>carriage houses</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#carvingsvisualworks">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>carvings (visual works)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#castlesfortifications">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>castles (fortifications)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#cathedralceilings">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>cathedral ceilings</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#cathedralsbuildings">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>cathedrals (buildings)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#causeways">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>causeways</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#celebrations">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>celebrations</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#cemeteries">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>cemeteries</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#cenotaphs">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>cenotaphs</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#chapelsroomsorstructures">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>chapels (rooms or structures)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#churchesbuildings">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>churches (buildings)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#churchyards">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>churchyards</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#circusesperformances">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>circuses (performances)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#citadels">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>citadels</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#cities">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>cities</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#cityhalls">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>city halls</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#clinics">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>clinics</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#clinicsbuildings,medical">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>clinics (buildings, medical)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#clocktowers">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>clock towers</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#cloisters">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>cloisters</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#clubhouses">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>clubhouses</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#collegesbuildings">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>colleges (buildings)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#colonnades">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>colonnades</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#columnsarchitecturalelements">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>columns (architectural elements)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#comfortstations">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>comfort stations</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#commercialbuildings">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>commercial buildings</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#communitycenters">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>community centers</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#complexesbuildings">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>complexes (buildings)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#concerthalls">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>concert halls</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#consulates">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>consulates</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#conventsnunneries">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>convents (nunneries)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#cornices">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>cornices</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#cottages">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>cottages</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#countryhouses">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>country houses</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#courthouses">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>courthouses</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#courtyards">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>courtyards</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#coveredwalkways">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>covered walkways</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#crossesvisualworks">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>crosses (visual works)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#cruisers">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>cruisers</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#culturalcentersbuildings">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>cultural centers (buildings)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#culturalparks">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>cultural parks</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#dachas">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>dachas</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#dairybarns">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>dairy barns</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#defensivetowers">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>defensive towers</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#defensivewalls">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>defensive walls</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#departmentstores">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>department stores</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#derelictbuildings">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>derelict buildings</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#distilleries">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>distilleries</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#districts">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>districts</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#docks">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>docks</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#dormitoriesbuildings">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>dormitories (buildings)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#downspouts">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>downspouts</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#drawbridges">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>drawbridges</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#drugstores">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>drugstores</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#dwellings">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>dwellings</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#earthlodges">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>earth lodges</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#embassies">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>embassies</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#entrances">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>entrances</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#estatehouses">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>estate houses</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#estatesproperty">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>estates (property)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#exchangesfinancialinstitutions">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>exchanges (financial institutions)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#exhibitionsevents">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>exhibitions (events)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#exteriorwalls">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>exterior walls</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#factoriesstructures">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>factories (structures)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#farmhouses">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>farmhouses</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#farmland">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>farmland</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#farms">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>farms</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#fences">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>fences</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#festivals">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>festivals</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#firestations">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>fire stations</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#firetowerswatchtowers">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>fire towers (watchtowers)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#floraplants">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>flora (plants)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#flourmills">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>flour mills</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#footbridges">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>footbridges</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#fortifications">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>fortifications</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#fortresses">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>fortresses</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#forts">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>forts</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#foundationsstructuralelements">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>foundations (structural elements)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#fountains">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>fountains</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#frameconstruction">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>frame construction</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#frescoespaintings">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>frescoes (paintings)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#gardens">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>gardens</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#garrisonartillery">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>garrison artillery</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#gatechurches">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>gate churches</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#gatetowers">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>gate towers</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#gatehouses">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>gatehouses</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#gates">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>gates</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#gateways">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>gateways</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#granaries">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>granaries</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#graves">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>graves</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#groundsopenspaces">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>grounds (open spaces)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#grovesplantcommunities">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>groves (plant communities)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#harbors">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>harbors</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#healthfacilitiesbuildingsforhealthfacility">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>health facilities (buildings for health facility)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#healthresorts">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>health resorts</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#hermitages">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>hermitages</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#highschoolsbuildings">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>high schools (buildings)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#historichousemuseums">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>historic house museums</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#historichousemuseumsbuildings">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>historic house museums (buildings)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#historichouses">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>historic houses</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#historicmonuments">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>historic monuments</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#holywells">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>holy wells</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#hospitalsbuildingsforhealthfacility">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>hospitals (buildings for health facility)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#hotelspublicaccommodations">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>hotels (public accommodations)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#hotelspublicaccommodations">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>hotels (public accommodations)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#houses">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>houses</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#huts">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>huts</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#iceskatingrinks">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>ice skating rinks</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#icehouses">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>icehouses</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#iconsdevotionalimages">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>icons (devotional images)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#industrialbuildings">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>industrial buildings</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#infirmaries">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>infirmaries</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#inlets">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>inlets</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#institutesbuildings">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>institutes (buildings)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#isbas">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>isbas</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#kennelsanimalhousing">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>kennels (animal housing)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#kindergartens">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>kindergartens</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#kiosks">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>kiosks</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#kitchens">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>kitchens</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#kremlins">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>kremlins</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#laboratories">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>laboratories</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#labyrinths">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>labyrinths</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#lavras">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>lavras</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#legislativebuildings">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>legislative buildings</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#librariesbuildings">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>libraries (buildings)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#lighthouses">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>lighthouses</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#logcabinshouses">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>log cabins (houses)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#logconstruction">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>log construction</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#loghouses">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>log houses</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#manorhouses">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>manor houses</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#mansions">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>mansions</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#manufacturing">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>manufacturing</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#maps">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>maps</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#markersmonuments">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>markers (monuments)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#marketsbuildings">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>markets (buildings)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#marketsevents">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>markets (events)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#mausoleums">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>mausoleums</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#medicalschools">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>medical schools</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#memorials">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>memorials</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#mercantilebuildings">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>mercantile buildings</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#militarybuildings">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>military buildings</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#militaryhospitals">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>military hospitals</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#millsbuildings">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>mills (buildings)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#minarets">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>minarets</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#mintsbuildings">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>mints (buildings)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#monasteries">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>monasteries</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#monasticchurches">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>monastic churches</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#monuments">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>monuments</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#mosquesbuildings">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>mosques (buildings)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#motionpicturetheaters">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>motion picture theaters</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#municipalbuildings">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>municipal buildings</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#museumsbuildings">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>museums (buildings)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#naturereserves">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>nature reserves</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#neighborhoodparks">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>neighborhood parks</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#nurseryschoolsinstitutions">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>nursery schools (institutions)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#obelisksmonumentalpillars">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>obelisks (monumental pillars)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#octagonal">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>octagonal</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#officebuildings">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>office buildings</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#officecomplexes">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>office complexes</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#officersclubs">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>officers' clubs</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#officesworkspaces">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>offices (work spaces)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#officialresidences">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>official residences</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#open-airmuseums">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>open-air museums</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#operahouses">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>opera houses</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#orphanages">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>orphanages</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#palaces">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>palaces</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#parishhouses">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>parish houses</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#parksrecreationareas">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>parks (recreation areas)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#parochialschools">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>parochial schools</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#passagescirculationspaces">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>passages (circulation spaces)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#pavilionsbuildingdivisions">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>pavilions (building divisions)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#pavilionsgardenstructures">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>pavilions (garden structures)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#people">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>people</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#performingartsbuildings">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>performing arts buildings</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#performingartscenters">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>performing arts centers</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#pictorialmaps">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>pictorial maps</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#plaquesflatobjects">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>plaques (flat objects)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#plazas">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>plazas</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#pogost">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>pogost</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#policestations">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>police stations</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#polytechnicsinstitutions">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>polytechnics (institutions)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#pondswater">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>ponds (water)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#portals">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>portals</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#ports">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>ports</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#postoffices">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>post offices</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#posthouses">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>posthouses</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#powerplants">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>power plants</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#printingplants">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>printing plants</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#prisoncamps">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>prison camps</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#prisons">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>prisons</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#prisonsbuildings">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>prisons (buildings)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#psychiatrichospitals">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>psychiatric hospitals</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#publicbaths">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>public baths</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#publicbuildings">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>public buildings</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#pumpingstations">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>pumping stations</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#pyramidstombsorplatforms">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>pyramids (tombs or platforms)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#quays">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>quays</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#racetracks">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>racetracks</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#rackssupportingdevices">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>racks (supporting devices)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#railroadbridges">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>railroad bridges</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#railroadstations">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>railroad stations</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#railroadtunnels">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>railroad tunnels</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#railroads">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>railroads</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#ramparts">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>ramparts</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#reconstructionconstruction">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>reconstruction (construction)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#recreationcenters">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>recreation centers</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#refectories">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>refectories</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#religiousbuildings">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>religious buildings</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#religiouscommunities">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>religious communities</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#religiouscomplexes">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>religious complexes</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#remains">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>remains</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#researchbuildings">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>research buildings</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#researchinstitutes">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>research institutes</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#researchlaboratories">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>research laboratories</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#residentialstructures">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>residential structures</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#restaurants">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>restaurants</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#retailstores">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>retail stores</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#retainingwalls">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>retaining walls</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#riverports">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>river ports</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#riverfronts">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>riverfronts</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#rivers">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>rivers</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#roadhouses">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>roadhouses</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#roads">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>roads</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#rotundasbuildings">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>rotundas (buildings)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#roundtowers">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>round towers</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#ruins">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>ruins</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#saltworks">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>saltworks</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#sanatoriums">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>sanatoriums</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#saunas">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>saunas</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#schoolsbuildings">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>schools (buildings)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#sculpturevisualwork">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>sculpture (visual work)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#sculpturegardens">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>sculpture gardens</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#seawalls">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>seawalls</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#sepulchralmonuments">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>sepulchral monuments</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#shedsstoragestructures">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>sheds (storage structures)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#ships">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>ships</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#shoppingarcades">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>shopping arcades</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#shoppingcenters">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>shopping centers</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#shoppingmalls">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>shopping malls</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#shops">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>shops</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#shrinesstructures">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>shrines (structures)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#silosagriculturalstructures">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>silos (agricultural structures)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#smithies">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>smithies</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#smoketannage">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>smoke tannage</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#soldiersmonuments">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>soldiers' monuments</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#sportsbuildings">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>sports buildings</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#squaresopenspaces">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>squares (open spaces)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#stablesanimalhousing">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>stables (animal housing)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#stagesperformancespaces">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>stages (performance spaces)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#stairwells">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>stairwells</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#stateuniversitiesbuildings">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>state universities (buildings)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#stations">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>stations</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#statues">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>statues</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#steambaths">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>steam baths</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#stelae">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>stelae</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#storagefacilities">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>storage facilities</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#stores">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>stores</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#streets">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>streets</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#streetscapes">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>streetscapes</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#studiosworkspaces">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>studios (work spaces)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#stupas">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>stupas</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#submarines">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>submarines</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#summerpalaces">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>summer palaces</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#sunkenhuts">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>sunken huts</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#surrounds">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>surrounds</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#swings">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>swings</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#synagoguesbuildings">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>synagogues (buildings)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#tanksmilitaryvehicles">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>tanks (military vehicles)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#technicalinstitutes">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>technical institutes</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#telegraphoffices">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>telegraph offices</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#templesbuildings">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>temples (buildings)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#theatersbuildings">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>theaters (buildings)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#thematicmaps">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>thematic maps</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#theologicalseminariesbuildings">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>theological seminaries (buildings)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#tombs">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>tombs</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#tombstonessepulchralmonuments">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>tombstones (sepulchral monuments)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#touristmaps">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>tourist maps</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#towers">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>towers</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#towersbuildingdivisions">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>towers (building divisions)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#towerssinglebuiltworks">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>towers (single built works)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#townscapesbuiltenvironment">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>townscapes (built environment)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#tractorsagriculturalequipment">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>tractors (agricultural equipment)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#trademarts">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>trade marts</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#tradingposts">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>trading posts</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#transportationbuildings">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>transportation buildings</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#treasuries">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>treasuries</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#trees">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>trees</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#triumphalcolumns">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>triumphal columns</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#universities">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>universities</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#veterinaryhospitals">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>veterinary hospitals</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#views">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>views</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#villages">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>villages</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#votiveofferings">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>votive offerings</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#walkways">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>walkways</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#walltowers">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>wall towers</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#walls">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>walls</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#warmemorials">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>war memorials</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#warehouses">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>warehouses</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#watchtower">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>watchtower</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#watermills">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>water mills</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#watertowers">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>water towers</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#watertransportationbuildings">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>water transportation buildings</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#waterwells">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>water wells</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#watercraft">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>watercraft</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#waterfronts">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>waterfronts</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#wellsstructures">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>wells (structures)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#wharveslandingsmarinestructures">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>wharves (landings (marine structures)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#wickiups">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>wickiups</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#windmills">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>windmills</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#windows">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>windows</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#workshopsworkspaces">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>workshops (work spaces)</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#youthcenters">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>youth centers</vra:name>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes#yurts">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <vra:name>yurts</vra:name>
+   </rdf:Description>
+</rdf:RDF>

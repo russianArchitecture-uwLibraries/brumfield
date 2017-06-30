@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:uwext="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/extensions#"
+         xmlns:wgs84="http://www.w3.org/2003/01/geo/wgs84_pos#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:vra="http://purl.org/vra/"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:library="http://purl.org/library/"
+         xmlns:void="http://rdfs.org/ns/void#"
+         xmlns:schema="http://schema.org/">
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/brumfield_kaluga#c_kaluga">
+      <rdf:type rdf:resource="http://purl.org/vra/Collection"/>
+      <schema:provider rdf:resource="http://id.loc.gov/authorities/names/n79056337"/>
+      <vra:photographer rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents#agent0001"/>
+      <vra:wasCreated>
+         <rdf:Description>
+            <rdf:type rdf:resource="http://purl.org/vra/Event"/>
+            <vra:startDate>1992-10-18</vra:startDate>
+            <vra:endDate>2008</vra:endDate>
+         </rdf:Description>
+      </vra:wasCreated>
+      <vra:description>Subcollection in the William Brumfield Russian Architecture Digital Collection, including only images from the Russian state Kaluga.</vra:description>
+      <dcterms:rights rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/rights#rightsStatement0001"/>
+      <dcterms:rightsHolder rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents#agent0001"/>
+      <vra:name>William Brumfield Russian Architecture Digital Collection, Kaluga region</vra:name>
+      <dcterms:subject rdf:resource="http://vocab.getty.edu/aat/300054156"/>
+      <dcterms:subject rdf:resource="http://id.loc.gov/authorities/names/n92056007"/>
+      <dcterms:subject rdf:resource="http://id.loc.gov/authorities/names/n80001203"/>
+      <dcterms:subject rdf:resource="http://id.loc.gov/authorities/names/n80126312"/>
+      <vra:partOf rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/brumfield_kaluga#i_44910">
+      <rdf:type rdf:resource="http://purl.org/vra/Image"/>
+      <dcterms:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#spires"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#crossesvisualworks"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#oniondomes"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#cupolas"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#drumswalls"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#belltowers"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#arches"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#gablesarchitecturalelements"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#domesarchitecturalelement"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#windows"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#openingsarchitecturalelements"/>
+      <vra:photographer rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents#agent0001"/>
+      <vra:dateCreated>1992-10-18</vra:dateCreated>
+      <dcterms:rights rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/rights#rightsStatement0001"/>
+      <dcterms:rightsHolder rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents#agent0001"/>
+      <vra:name xml:lang="en">Exterior, southwest view</vra:name>
+      <vra:imageOf>
+         <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/russianWorks#w_58455"/>
+      </vra:imageOf>
+      <vra:partOf rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/brumfield_/uwDataset/photos/brumfield_kaluga#c_kaluga"/>
+      <vra:partOf rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/brumfield_kaluga#i_44911">
+      <rdf:type rdf:resource="http://purl.org/vra/Image"/>
+      <dcterms:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#crossesvisualworks"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#spires"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#cupolas"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#drumswalls"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#oniondomes"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#domesarchitecturalelement"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#belltowers"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#arches"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#openingsarchitecturalelements"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#windows"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#gablesarchitecturalelements"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#columnsarchitecturalelements"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#doorways"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#doors"/>
+      <vra:photographer rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents#agent0001"/>
+      <vra:dateCreated>1992-10-18</vra:dateCreated>
+      <dcterms:rights rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/rights#rightsStatement0001"/>
+      <dcterms:rightsHolder rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents#agent0001"/>
+      <vra:name xml:lang="en">Exterior, northwest view</vra:name>
+      <vra:imageOf>
+         <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/russianWorks#w_58455"/>
+      </vra:imageOf>
+      <vra:partOf rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/brumfield_/uwDataset/photos/brumfield_kaluga#c_kaluga"/>
+      <vra:partOf rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/brumfield_kaluga#i_44912">
+      <rdf:type rdf:resource="http://purl.org/vra/Image"/>
+      <dcterms:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#streetscapes"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#streets"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#roofs"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#windows"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#eaves"/>
+      <vra:photographer rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents#agent0001"/>
+      <vra:dateCreated>1992-10-18</vra:dateCreated>
+      <vra:placeOfSite rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/places#BorovskKaluzhskaia"/>
+      <vra:placeOfSite rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/places#BorovskiiraionKaluzhskaia"/>
+      <vra:placeOfSite rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/places#KaluzhskaiaoblastKaluzhskaia"/>
+      <vra:placeOfSite rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/places#RussiaFederation"/>
+      <dcterms:rights rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/rights#rightsStatement0001"/>
+      <dcterms:rightsHolder rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents#agent0001"/>
+      <vra:name xml:lang="en">Exterior, façades</vra:name>
+      <vra:partOf rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/brumfield_/uwDataset/photos/brumfield_kaluga#c_kaluga"/>
+      <vra:partOf rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/brumfield_kaluga#i_44913">
+      <rdf:type rdf:resource="http://purl.org/vra/Image"/>
+      <dcterms:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#belltowers"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#eaves"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#cornices"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#dentils"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#columnsarchitecturalelements"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#arches"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#gablesarchitecturalelements"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#doors"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#blindarches"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#blindwindows"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#pilasters"/>
+      <vra:photographer rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents#agent0001"/>
+      <vra:dateCreated>1992-10-18</vra:dateCreated>
+      <dcterms:rights rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/rights#rightsStatement0001"/>
+      <dcterms:rightsHolder rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents#agent0001"/>
+      <vra:name xml:lang="en">Exterior, northwest view</vra:name>
+      <vra:imageOf>
+         <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/russianWorks#w_58453"/>
+      </vra:imageOf>
+      <vra:partOf rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/brumfield_/uwDataset/photos/brumfield_kaluga#c_kaluga"/>
+      <vra:partOf rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/brumfield_kaluga#i_44914">
+      <rdf:type rdf:resource="http://purl.org/vra/Image"/>
+      <dcterms:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#crossesvisualworks"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#oniondomes"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#cupolas"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#drumswalls"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#domesarchitecturalelement"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#eaves"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#cornices"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#blindarches"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#zakomariesgables"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#moldingsobjectcomponents"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#apses"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#engagedcolumns"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#windows"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#capmoldings"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#windowheads"/>
+      <vra:photographer rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents#agent0001"/>
+      <vra:dateCreated>1992-10-18</vra:dateCreated>
+      <dcterms:rights rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/rights#rightsStatement0001"/>
+      <dcterms:rightsHolder rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents#agent0001"/>
+      <vra:name xml:lang="en">Exterior, northeast view</vra:name>
+      <vra:imageOf>
+         <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/russianWorks#w_58453"/>
+      </vra:imageOf>
+      <vra:partOf rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/brumfield_/uwDataset/photos/brumfield_kaluga#c_kaluga"/>
+      <vra:partOf rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/brumfield_kaluga#i_44915">
+      <rdf:type rdf:resource="http://purl.org/vra/Image"/>
+      <dcterms:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#crossesvisualworks"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#oniondomes"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#cupolas"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#drumswalls"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#towersbuildingdivisions"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#arches"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#gablesarchitecturalelements"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#eaves"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#windows"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#openingsarchitecturalelements"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#cornices"/>
+      <vra:photographer rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents#agent0001"/>
+      <vra:dateCreated>1992-10-18</vra:dateCreated>
+      <dcterms:rights rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/rights#rightsStatement0001"/>
+      <dcterms:rightsHolder rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents#agent0001"/>
+      <vra:name xml:lang="en">Exterior, southwest view</vra:name>
+      <vra:imageOf>
+         <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/russianWorks#w_58447"/>
+      </vra:imageOf>
+      <vra:partOf rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/brumfield_/uwDataset/photos/brumfield_kaluga#c_kaluga"/>
+      <vra:partOf rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/brumfield_kaluga#i_44916">
+      <rdf:type rdf:resource="http://purl.org/vra/Image"/>
+      <dcterms:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#crossesvisualworks"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#oniondomes"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#cupolas"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#drumswalls"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#domesarchitecturalelement"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#lanternsroofappendages"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#zakomariesgables"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#eaves"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#arches"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#blindwindows"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#doors"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#windows"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#cornices"/>
+      <vra:photographer rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents#agent0001"/>
+      <vra:dateCreated>1992-10-18</vra:dateCreated>
+      <vra:description>Left: Church of Saint Mitrofan, southwest view</vra:description>
+      <dcterms:rights rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/rights#rightsStatement0001"/>
+      <dcterms:rightsHolder rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents#agent0001"/>
+      <vra:name xml:lang="en">Exterior, west view</vra:name>
+      <vra:imageOf>
+         <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/russianWorks#w_58444"/>
+      </vra:imageOf>
+      <vra:imageOf>
+         <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/russianWorks#w_58445"/>
+      </vra:imageOf>
+      <vra:partOf rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/brumfield_/uwDataset/photos/brumfield_kaluga#c_kaluga"/>
+      <vra:partOf rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/brumfield_kaluga#i_44917">
+      <rdf:type rdf:resource="http://purl.org/vra/Image"/>
+      <dcterms:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#crossesvisualworks"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#oniondomes"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#cupolas"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#drumswalls"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#towersbuildingdivisions"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#arches"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#eaves"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#cornices"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#windows"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#capmoldings"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#windowheads"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#courses"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#blindarches"/>
+      <vra:photographer rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents#agent0001"/>
+      <vra:dateCreated>1992-10-18</vra:dateCreated>
+      <vra:description>Right: Refectory, with Church of Nativity of Christ</vra:description>
+      <dcterms:rights rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/rights#rightsStatement0001"/>
+      <dcterms:rightsHolder rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents#agent0001"/>
+      <vra:name xml:lang="en">Exterior, northwest view</vra:name>
+      <vra:imageOf>
+         <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/russianWorks#w_58447"/>
+      </vra:imageOf>
+      <vra:imageOf>
+         <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/russianWorks#w_58448"/>
+      </vra:imageOf>
+      <vra:partOf rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/brumfield_/uwDataset/photos/brumfield_kaluga#c_kaluga"/>
+      <vra:partOf rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/brumfield_kaluga#i_44918">
+      <rdf:type rdf:resource="http://purl.org/vra/Image"/>
+      <dcterms:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#crossesvisualworks"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#oniondomes"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#cupolas"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#drumswalls"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#lanternsroofappendages"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#windows"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#cornices"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#zakomariesgables"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#arches"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#pilasters"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#dentils"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#doors"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#doorways"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#moldingsobjectcomponents"/>
+      <vra:photographer rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents#agent0001"/>
+      <vra:dateCreated>1992-10-18</vra:dateCreated>
+      <dcterms:rights rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/rights#rightsStatement0001"/>
+      <dcterms:rightsHolder rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents#agent0001"/>
+      <vra:name xml:lang="en">Exterior, northwest view</vra:name>
+      <vra:imageOf>
+         <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/russianWorks#w_58444"/>
+      </vra:imageOf>
+      <vra:partOf rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/brumfield_/uwDataset/photos/brumfield_kaluga#c_kaluga"/>
+      <vra:partOf rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/brumfield_kaluga#i_44919">
+      <rdf:type rdf:resource="http://purl.org/vra/Image"/>
+      <dcterms:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#crossesvisualworks"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#oniondomes"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#cupolas"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#drumswalls"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#lanternsroofappendages"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#windows"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#cornices"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#zakomariesgables"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#arches"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#pilasters"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#moldingsobjectcomponents"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#apses"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#engagedcolumns"/>
+      <vra:photographer rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents#agent0001"/>
+      <vra:dateCreated>1992-10-18</vra:dateCreated>
+      <dcterms:rights rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/rights#rightsStatement0001"/>
+      <dcterms:rightsHolder rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents#agent0001"/>
+      <vra:name xml:lang="en">Exterior, northeast view</vra:name>
+      <vra:imageOf>
+         <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/russianWorks#w_58444"/>
+      </vra:imageOf>
+      <vra:partOf rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/brumfield_/uwDataset/photos/brumfield_kaluga#c_kaluga"/>
+      <vra:partOf rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/brumfield_kaluga#i_44920">
+      <rdf:type rdf:resource="http://purl.org/vra/Image"/>
+      <dcterms:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#crossesvisualworks"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#oniondomes"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#cupolas"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#drumswalls"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#domesarchitecturalelement"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#windows"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#cornices"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#arches"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#pilasters"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#moldingsobjectcomponents"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#columnsarchitecturalelements"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#roofs"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#blindwindows"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#surrounds"/>
+      <vra:photographer rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents#agent0001"/>
+      <vra:dateCreated>1992-10-18</vra:dateCreated>
+      <dcterms:rights rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/rights#rightsStatement0001"/>
+      <dcterms:rightsHolder rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents#agent0001"/>
+      <vra:name xml:lang="en">Exterior, southeast view</vra:name>
+      <vra:imageOf>
+         <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/russianWorks#w_58445"/>
+      </vra:imageOf>
+      <vra:partOf rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/brumfield_/uwDataset/photos/brumfield_kaluga#c_kaluga"/>
+      <vra:partOf rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/brumfield_kaluga#i_44921">
+      <rdf:type rdf:resource="http://purl.org/vra/Image"/>
+      <dcterms:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#crossesvisualworks"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#oniondomes"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#cupolas"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#drumswalls"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#windows"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#cornices"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#arches"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#pilasters"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#moldingsobjectcomponents"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#columnsarchitecturalelements"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#roofs"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#blindwindows"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#surrounds"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#domesarchitecturalelement"/>
+      <vra:photographer rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents#agent0001"/>
+      <vra:dateCreated>1992-10-18</vra:dateCreated>
+      <dcterms:rights rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/rights#rightsStatement0001"/>
+      <dcterms:rightsHolder rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents#agent0001"/>
+      <vra:name xml:lang="en">Exterior, southeast view</vra:name>
+      <vra:imageOf>
+         <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/russianWorks#w_58445"/>
+      </vra:imageOf>
+      <vra:partOf rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/brumfield_/uwDataset/photos/brumfield_kaluga#c_kaluga"/>
+      <vra:partOf rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/brumfield_kaluga#i_44922">
+      <rdf:type rdf:resource="http://purl.org/vra/Image"/>
+      <dcterms:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#crossesvisualworks"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#oniondomes"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#cupolas"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#drumswalls"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#lanternsroofappendages"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#windows"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#cornices"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#zakomariesgables"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#arches"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#pilasters"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#moldingsobjectcomponents"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#apses"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#engagedcolumns"/>
+      <vra:photographer rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents#agent0001"/>
+      <vra:dateCreated>1992-10-18</vra:dateCreated>
+      <dcterms:rights rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/rights#rightsStatement0001"/>
+      <dcterms:rightsHolder rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents#agent0001"/>
+      <vra:name xml:lang="en">Exterior, northeast view</vra:name>
+      <vra:imageOf>
+         <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/russianWorks#w_58444"/>
+      </vra:imageOf>
+      <vra:partOf rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/brumfield_/uwDataset/photos/brumfield_kaluga#c_kaluga"/>
+      <vra:partOf rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/brumfield_kaluga#i_44923">
+      <rdf:type rdf:resource="http://purl.org/vra/Image"/>
+      <dcterms:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#roofs"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#windows"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#openingsarchitecturalelements"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#niches"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#doorways"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#eaves"/>
+      <vra:photographer rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents#agent0001"/>
+      <vra:dateCreated>1992-10-18</vra:dateCreated>
+      <dcterms:rights rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/rights#rightsStatement0001"/>
+      <dcterms:rightsHolder rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents#agent0001"/>
+      <vra:name xml:lang="en">Exterior, roof</vra:name>
+      <vra:imageOf>
+         <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/russianWorks#w_58450"/>
+      </vra:imageOf>
+      <vra:partOf rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/brumfield_/uwDataset/photos/brumfield_kaluga#c_kaluga"/>
+      <vra:partOf rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/brumfield_kaluga#i_44924">
+      <rdf:type rdf:resource="http://purl.org/vra/Image"/>
+      <dcterms:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#crossesvisualworks"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#oniondomes"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#cupolas"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#drumswalls"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#lanternsroofappendages"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#windows"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#cornices"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#zakomariesgables"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#arches"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#pilasters"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#doorways"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#apses"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#roofs"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#engagedcolumns"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#domesarchitecturalelement"/>
+      <vra:photographer rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents#agent0001"/>
+      <vra:dateCreated>1992-10-18</vra:dateCreated>
+      <vra:description>Background: Church of Saint Mitrofan</vra:description>
+      <dcterms:rights rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/rights#rightsStatement0001"/>
+      <dcterms:rightsHolder rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents#agent0001"/>
+      <vra:name xml:lang="en">Exterior, southeast view</vra:name>
+      <vra:imageOf>
+         <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/russianWorks#w_58445"/>
+      </vra:imageOf>
+      <vra:imageOf>
+         <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/russianWorks#w_58446"/>
+      </vra:imageOf>
+      <vra:partOf rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/brumfield_/uwDataset/photos/brumfield_kaluga#c_kaluga"/>
+      <vra:partOf rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/brumfield_kaluga#i_44925">
+      <rdf:type rdf:resource="http://purl.org/vra/Image"/>
+      <dcterms:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#crossesvisualworks"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#oniondomes"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#cupolas"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#drumswalls"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#lanternsroofappendages"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#windows"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#cornices"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#zakomariesgables"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#arches"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#domesarchitecturalelement"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#apses"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#engagedcolumns"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#belltowers"/>
+      <vra:photographer rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents#agent0001"/>
+      <vra:dateCreated>1992-10-18</vra:dateCreated>
+      <vra:description>Left: Bell tower</vra:description>
+      <dcterms:rights rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/rights#rightsStatement0001"/>
+      <dcterms:rightsHolder rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents#agent0001"/>
+      <vra:name xml:lang="en">Exterior, east view</vra:name>
+      <vra:imageOf>
+         <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/russianWorks#w_58444"/>
+      </vra:imageOf>
+      <vra:partOf rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/brumfield_/uwDataset/photos/brumfield_kaluga#c_kaluga"/>
+      <vra:partOf rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/brumfield_kaluga#i_44926">
+      <rdf:type rdf:resource="http://purl.org/vra/Image"/>
+      <dcterms:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#columnsarchitecturalelements"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#arches"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#niches"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#blindwindows"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#roofs"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#doors"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#doorways"/>
+      <vra:photographer rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents#agent0001"/>
+      <vra:dateCreated>1992-10-18</vra:dateCreated>
+      <dcterms:rights rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/rights#rightsStatement0001"/>
+      <dcterms:rightsHolder rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents#agent0001"/>
+      <vra:name xml:lang="en">Exterior, east wall</vra:name>
+      <vra:imageOf>
+         <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/russianWorks#w_58450"/>
+      </vra:imageOf>
+      <vra:partOf rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/brumfield_/uwDataset/photos/brumfield_kaluga#c_kaluga"/>
+      <vra:partOf rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/brumfield_kaluga#i_44927">
+      <rdf:type rdf:resource="http://purl.org/vra/Image"/>
+      <dcterms:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#apses"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#engagedcolumns"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#windows"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#cornices"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#eaves"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#moldingsobjectcomponents"/>
+      <vra:photographer rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents#agent0001"/>
+      <vra:dateCreated>1992-10-18</vra:dateCreated>
+      <dcterms:rights rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/rights#rightsStatement0001"/>
+      <dcterms:rightsHolder rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents#agent0001"/>
+      <vra:name xml:lang="en">Exterior, apse</vra:name>
+      <vra:imageOf>
+         <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/russianWorks#w_58444"/>
+      </vra:imageOf>
+      <vra:partOf rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/brumfield_/uwDataset/photos/brumfield_kaluga#c_kaluga"/>
+      <vra:partOf rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/brumfield_kaluga#i_44928">
+      <rdf:type rdf:resource="http://purl.org/vra/Image"/>
+      <dcterms:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#crossesvisualworks"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#oniondomes"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#cupolas"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#drumswalls"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#arches"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#eaves"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#cornices"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#courses"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#openingsarchitecturalelements"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#windows"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#doorways"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#windowheads"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#capmoldings"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#pyramidalroofs"/>
+      <vra:photographer rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents#agent0001"/>
+      <vra:dateCreated>1992-10-18</vra:dateCreated>
+      <vra:description>Left: Refectory, with Church of Nativity of Christ</vra:description>
+      <dcterms:rights rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/rights#rightsStatement0001"/>
+      <dcterms:rightsHolder rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents#agent0001"/>
+      <vra:name xml:lang="en">Exterior, northeast view</vra:name>
+      <vra:imageOf>
+         <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/russianWorks#w_58447"/>
+      </vra:imageOf>
+      <vra:imageOf>
+         <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/russianWorks#w_58448"/>
+      </vra:imageOf>
+      <vra:partOf rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/brumfield_/uwDataset/photos/brumfield_kaluga#c_kaluga"/>
+      <vra:partOf rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/brumfield_kaluga#i_44929">
+      <rdf:type rdf:resource="http://purl.org/vra/Image"/>
+      <dcterms:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#portals"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#doors"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#doorways"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#archivolts"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#windows"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#moldingsobjectcomponents"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#niches"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#canopiesstructuralelements"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#pilasters"/>
+      <vra:photographer rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents#agent0001"/>
+      <vra:dateCreated>1992-10-18</vra:dateCreated>
+      <dcterms:rights rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/rights#rightsStatement0001"/>
+      <dcterms:rightsHolder rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents#agent0001"/>
+      <vra:name xml:lang="en">Exterior, south portal</vra:name>
+      <vra:imageOf>
+         <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/russianWorks#w_58444"/>
+      </vra:imageOf>
+      <vra:partOf rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/brumfield_/uwDataset/photos/brumfield_kaluga#c_kaluga"/>
+      <vra:partOf rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/brumfield_kaluga#i_44930">
+      <rdf:type rdf:resource="http://purl.org/vra/Image"/>
+      <dcterms:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#arches"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#archways"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#doorways"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#niches"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#pilasters"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#moldingsobjectcomponents"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#windows"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#courses"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#cornices"/>
+      <vra:photographer rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents#agent0001"/>
+      <vra:dateCreated>1992-10-18</vra:dateCreated>
+      <dcterms:rights rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/rights#rightsStatement0001"/>
+      <dcterms:rightsHolder rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents#agent0001"/>
+      <vra:name xml:lang="en">Exterior, east wall</vra:name>
+      <vra:imageOf>
+         <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/russianWorks#w_58448"/>
+      </vra:imageOf>
+      <vra:partOf rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/brumfield_/uwDataset/photos/brumfield_kaluga#c_kaluga"/>
+      <vra:partOf rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/brumfield_kaluga#i_44931">
+      <rdf:type rdf:resource="http://purl.org/vra/Image"/>
+      <dcterms:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#crossesvisualworks"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#oniondomes"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#cupolas"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#drumswalls"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#lanternsroofappendages"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#windows"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#zakomariesgables"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#arches"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#pilasters"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#doors"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#cornices"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#eaves"/>
+      <vra:photographer rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents#agent0001"/>
+      <vra:dateCreated>1992-10-18</vra:dateCreated>
+      <dcterms:rights rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/rights#rightsStatement0001"/>
+      <dcterms:rightsHolder rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents#agent0001"/>
+      <vra:name xml:lang="en">Exterior, south view</vra:name>
+      <vra:imageOf>
+         <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/russianWorks#w_58444"/>
+      </vra:imageOf>
+      <vra:partOf rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/brumfield_/uwDataset/photos/brumfield_kaluga#c_kaluga"/>
+      <vra:partOf rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos"/>
+   </rdf:Description>
+</rdf:RDF>

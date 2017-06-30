@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:uwext="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/extensions#"
+         xmlns:wgs84="http://www.w3.org/2003/01/geo/wgs84_pos#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:vra="http://purl.org/vra/"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:library="http://purl.org/library/"
+         xmlns:void="http://rdfs.org/ns/void#"
+         xmlns:schema="http://schema.org/">
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/brumfield_evreiskaia#c_evreiskaia">
+      <rdf:type rdf:resource="http://purl.org/vra/Collection"/>
+      <schema:provider rdf:resource="http://id.loc.gov/authorities/names/n79056337"/>
+      <vra:photographer rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents#agent0001"/>
+      <vra:wasCreated>
+         <rdf:Description>
+            <rdf:type rdf:resource="http://purl.org/vra/Event"/>
+            <vra:startDate>2000-09-16</vra:startDate>
+            <vra:endDate>2008</vra:endDate>
+         </rdf:Description>
+      </vra:wasCreated>
+      <vra:description>Subcollection in the William Brumfield Russian Architecture Digital Collection, including only images from the Russian state Evreiskaia.</vra:description>
+      <dcterms:rights rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/rights#rightsStatement0001"/>
+      <dcterms:rightsHolder rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents#agent0001"/>
+      <vra:name>William Brumfield Russian Architecture Digital Collection, Evreiskaia region</vra:name>
+      <dcterms:subject rdf:resource="http://vocab.getty.edu/aat/300054156"/>
+      <dcterms:subject rdf:resource="http://id.loc.gov/authorities/names/n92056007"/>
+      <dcterms:subject rdf:resource="http://id.loc.gov/authorities/names/n80001203"/>
+      <dcterms:subject rdf:resource="http://id.loc.gov/authorities/names/n80126312"/>
+      <vra:partOf rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/brumfield_evreiskaia#i_20626">
+      <rdf:type rdf:resource="http://purl.org/vra/Image"/>
+      <dcterms:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#people"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#food"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#railroadcars"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#railroads"/>
+      <vra:photographer rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents#agent0001"/>
+      <vra:dateCreated>2000-09-16</vra:dateCreated>
+      <dcterms:rights rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/rights#rightsStatement0001"/>
+      <dcterms:rightsHolder rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents#agent0001"/>
+      <vra:name xml:lang="en">Exterior, people and food tables along trans-siberian railroad</vra:name>
+      <vra:imageOf>
+         <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/russianWorks#w_58429"/>
+      </vra:imageOf>
+      <vra:partOf rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/brumfield_/uwDataset/photos/brumfield_evreiskaia#c_evreiskaia"/>
+      <vra:partOf rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/brumfield_evreiskaia#i_20627">
+      <rdf:type rdf:resource="http://purl.org/vra/Image"/>
+      <dcterms:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#food"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#people"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#railroadcars"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#railroads"/>
+      <vra:photographer rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents#agent0001"/>
+      <vra:dateCreated>2000-09-16</vra:dateCreated>
+      <dcterms:rights rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/rights#rightsStatement0001"/>
+      <dcterms:rightsHolder rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents#agent0001"/>
+      <vra:name xml:lang="en">Exterior, vendors selling food along trans-siberian railroad</vra:name>
+      <vra:imageOf>
+         <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/russianWorks#w_58429"/>
+      </vra:imageOf>
+      <vra:partOf rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/brumfield_/uwDataset/photos/brumfield_evreiskaia#c_evreiskaia"/>
+      <vra:partOf rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/brumfield_evreiskaia#i_20628">
+      <rdf:type rdf:resource="http://purl.org/vra/Image"/>
+      <dcterms:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#railroadstations"/>
+      <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#railroads"/>
+      <vra:photographer rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents#agent0001"/>
+      <vra:dateCreated>2000-09-16</vra:dateCreated>
+      <dcterms:rights rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/rights#rightsStatement0001"/>
+      <dcterms:rightsHolder rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents#agent0001"/>
+      <vra:name xml:lang="en">Exterior, view from trans-siberian railroad tracks</vra:name>
+      <vra:imageOf>
+         <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/russianWorks#w_58428"/>
+      </vra:imageOf>
+      <vra:partOf rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/brumfield_/uwDataset/photos/brumfield_evreiskaia#c_evreiskaia"/>
+      <vra:partOf rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos"/>
+   </rdf:Description>
+</rdf:RDF>

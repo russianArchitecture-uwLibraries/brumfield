@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:void="http://rdfs.org/ns/void#"
+    xmlns:dct="http://purl.org/dc/terms/">
+    
+    <void:Dataset rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+        <rdf:type rdf:resource="http://purl.org/dc/terms/Dataset"/>
+        <dct:title>William Brumfield Russian Architecture Digital Collection RDF Data</dct:title>
+        <dct:created>2005/2017</dct:created>
+        <dct:creator rdf:resource="http://id.loc.gov/authorities/names/n79056337"/>
+        <dct:description>RDF data extracted from the William Brumfield Russian Architecture Digital Collection, with enrichments to improve the usability of the dataset as linked data.</dct:description>
+    </void:Dataset>
+    
+    <!-- additional possible properties include: 
+        dct:format, [dct relations?] void:vocabulary, void:dataDump ,void:distinctObjects, void:entities, vra:description, vra:startDate/endDate, vra:title, etc. 
+    -->
+    
+</rdf:RDF>
