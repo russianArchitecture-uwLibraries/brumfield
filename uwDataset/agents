@@ -1,0 +1,24 @@
+@prefix brum: <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix vra:   <http://purl.org/vra/> .
+@prefix schema: <http://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix uwp: <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/platforms#> .
+
+
+brum:agents a void:Dataset ;
+            uwrecon:deDuped true ;
+            uwrecon:containsEntity vra:Agent, vra:Organization, vra:Person ;
+            uwrecon:targetVocab <https://ru.wikipedia.org/wiki/>, <http://dbpedia.org/resource/>, <http://viaf.org/viaf/> ;
+            uwrecon:targetVocabSecondary <http://vocab.getty.edu/ulan>, <https://www.wikidata.org/wiki/Q4097170> ;
+            uwrecon:targetVocab 
+            uwrecon:linkPredicate dcterms:isReferencedBy ;
+            uwrecon:linkPredicate owl:sameAs ;
+            uwrecon:platform ump:platform1 , uwp:platform2, uwp:platform3, uwp:platform4  ;
+            void:classPartition [ void:class vra:Agent ] ;
+            void:classPartition [ void:class vra:Organization ] ;
+            void:classPartition [ void:class vra:Person ] ; 
+            void:dataDump brum:agents.rdf, brum:agents.ttl ;
+            void:inDataset <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset> .
+

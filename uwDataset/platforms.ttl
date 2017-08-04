@@ -1,0 +1,22 @@
+@prefix uwp: <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/platforms#> .
+@prefix uwpv: <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies/platformVocab#> .
+
+
+uwp:platform001  a  uwpv:Platform ;
+               rdfs:label "SPARQL" .
+               
+uwp:platform002  a uwpv:Platform ;
+               rdfs:label "Fuseki" .
+               
+uwp:platform003  a umpv:Platform ;
+               rdfs:label "Microsoft Excel" .
+               
+uwp:platform004  a umpv:Platform ;
+               rdfs:label "iMacros [Firefox plugin]" .
+               
+uwp:platform005  a umpv:Platform ;
+               rdfs:label "Open Refine" .
+               
+uwp:platform006  a umpv:Platform ;
+               rdfs:label "Silk Linked Data Integration Framework" .
+               

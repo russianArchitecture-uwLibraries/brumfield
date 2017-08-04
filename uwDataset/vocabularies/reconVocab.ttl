@@ -1,0 +1,88 @@
+@prefix uwrecon: <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies/reconciliation#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+# No classes
+# Properties:
+# 1. uwrecon:deDuped
+# 2. uwrecon:containsEntity
+# 3. uwrecon:targetVocab
+# 4. uwrecontargetVocabSecondary
+# 5. uwrecon:linkPredicate 
+# 6. uwrecon:platform
+# 7. uwrecon:processingNote
+# 8. uwrecon:linkPredicateNote
+# 9. rdf:type
+# 10. void:classPartition
+# 11. void:class  [use with void:classPartition]
+# 12. void:dataDump
+# 13. void:inDataset       
+
+uwrecon:deDuped  rdf:type      rdf:Property ;
+                 rdfs:domain   void:Dataset ;
+                 rdfs:range     rdfs:Literal ;
+                 rdfs:label    "De-dupicated?" ;
+                 rdfs:comment  "Takes a boolean value true of false; decribes whether staff has ensured that each entity in the dataset is descrbed by only one IRI" ; 
+
+uwrecon:containsEntity   rdf:type      rdf:Property ;
+                         rdfs:domain   void:Dataset ;
+                         rdfs:range    rdfs:Class ;
+                         rdfs:label    "Entities in Dataset" ;
+                         rdfs:comment  "Enter all the types of entities in the dataset, repeating the property for each type. Use in conjunction with void:classPartition/void:class. The idea of this property is that it will list of entities available without an intervening blank node (as is required by void:classPartition). In addition it will state that an entity is present in the dataset even if it is not an enitity that can be used as the basis of a void:classPartition; for example, we partition our places dataset by vra:City, vra:AdmnistrativeArea and vra:Place, but we do not partition by schema:GeoCoord as this does not seem like a terribly useful partition; however the fact that this entity is used in the dataset can be describe using uwrecon:containsEntity."  .   
+
+                 
+uwrecon:targetVocab    rdf:type      rdf:Property ;
+                        rdfs:doman    void:Dataset ;
+                        rdfs:range    rdf:Resource ;
+                        rdfs:label    "Target Datasets Matched"
+                        rdfs:comment  "Value should be an identifier for a target vocabulary, prefereably an IRI. The target vocabulary would have been used to find additional descriptions of entities in the source dataset. The properties used to bring the source entities in relation to the target entities are described in uwrecon:linkPredicates. Note that void:target and its subproperties are not available here because they assume the resource being described is a void:Linkset. This property is to create a list of all targets used by a single dataset. This is useful when links are added to the source graph rather than create a new graph that is a void:Linkset. " .
+
+uwrecon:targetVocabSecondary    rdf:type      rdf:Property ;
+                        rdfs:doman    void:Dataset ;
+                        rdfs:range    rdf:Resource ;
+                        rdfs:label    "Target Datasets Matched Selectively"
+                        rdfs:comment  "Value should be an identifier for a target vocabulary, prefereably an IRI. The target vocabulary would have been used to find additional descriptions of entities in the source dataset. The properties used to bring the source entities in relation to the target entities are described in uwrecon:linkPredicates. THE DIFFERENCE BETWEEN uwrecon:targetVocabSecondary AND uwrecon:targetVocab IS THAT THE FORMER REPRESENTS A VOCABULARY THAT WAS NOT USED BY A MATCHING PROCESS; THE LATTER REPRESENTS A VOCABULARY THAT WAS USED TO COMPARE ENTITIES IN THE SOURCE DATASET SYSTEMATICALLY AND COMPREHENSIVEY TO ENTITIES IN THE TARGET DATASET; consequently the former property will be used rarely in the enriched source dataset, whereas th latter property should appear frequently in the enriched source dataset. Note that void:target and its subproperties are not available here because they assume the resource being described is a void:Linkset. This property is to create a list of all targets used by a single dataset. This is useful when links are added to the source graph rather than create a new graph that is a void:Linkset. " .
+
+uwrecon:linkPredicate     rdf:type     rdf:Property ;
+                          rdfs:domain  void:Dataset ;
+                          rdfs:range   rdf:Property ;
+                          rdfs:label   "Link Predicates for Matches" ;
+                          rdfs:comment "Values should include all properties used to relate entities in the source dataset to entities in external datasets. Note we can't use void:linkPredicate here as that requires we create a graph (a void:Linkset) dedicated to a single property that relates two and only two datasets." .
+                           
+uwrecon:platform    rdf:type     rdf:Property ;
+                     rdfs:domain  void:Dataset ;
+                     rdfs:range   rdfs:Literal ;
+                     rdfs:label   "Platform used for matching tasks" ;
+                     rdfs:comment "Enter the name of any platform uses to process the dataset during matching tasks." .
+
+uwrecon:processingNote     rdf:type      rdf:Property ;
+                            rdfs:domain   void:Dataset ;
+                            rdfs:range    rdfs:Literal ;
+                            rdfs:label    "Processing Notes" ;
+                            rdfs:comment  "Enter textual descriptions of data processing during matching tasks that may be pertinent to the use of the dataset." .                         
+
+uwrecon:linkPredicateNote     rdf:type     rdf:Property ;
+                               rdfs:domain   void:Dataset ;
+                            rdfs:range    rdfs:Literal ;
+                            rdfs:label    "Processing Notes" ;
+                            rdfs:comment  "Enter notes on the use ofv properties relate entities in the source dataset to entities in external datasets. May include prescribed uses as well as descriptions of properties that should be not used for matching entities in this dataset with entities in other datasets. " .
+
+
+
+
+#    ==>external properties for describing the reconciliation process:
+#    1. rdf:type
+#    2. void:classPartition
+#    3. void:class  [use with void:classPartition]
+#    4. void:dataDump
+#    5. void:inDataset
+
+#    ==>deprecated uwrecon:
+#    1 uwrecon:ReconTask    rdf:type    rdfs:Class ;
+#                      rdfs:label  "Reconciliation Task" ;
+#                      rdfs:comment  "Class os tasks and ideas for matching an entity in one vocabulary with another; conceived as a  #                                      type for an unnamed resource, a bnode probably, that is described by the properties in the     #                                       remainder of this ontology" .  
+#       decided we didn't need this class, the uw:recon properties can just as well describe the dataset.
+
+#    ==>properties not available:
+#         a property pointing to the Linkset from the target dataset (the subjectsTarget dataset).

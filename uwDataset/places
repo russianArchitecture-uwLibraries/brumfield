@@ -1,0 +1,23 @@
+@prefix brum: <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix vra:   <http://purl.org/vra/> .
+@prefix schema: <http://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix uwp: <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/platforms#> .
+
+
+brum:places a void:Dataset ;
+            uwrecon:deDuped true ;
+            uwrecon:containsEntity vra:City, vra:AdmnistrativeArea, vra:Place, schema:GeoCoord ;
+            uwrecon:targetVocab <http://dbpedia.org/resource/>, <https://ru.wikipedia.org/wiki/</target> ;
+            uwrecon:linkPredicate dcterms:isReferencedBy ;
+            uwrecon:linkPredicate owl:sameAs ;
+            uwrecon:platform uwp:platform1 , uwp:platform2  ;
+            void:classPartition [ void:class vra:City ] ;
+            void:classPartition [ void:class vra:AdmnistrativeArea ] ;
+            void:classPartition [ void:class vra:Place ] ; 
+            void:dataDump brum:places.rdf, brum:places.ttl ;
+            void:inDataset <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset> .
+
+      

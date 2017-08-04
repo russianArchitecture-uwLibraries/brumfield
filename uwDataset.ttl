@@ -1,0 +1,47 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix brum: <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/> .
+@prefix brumphotos: <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/> .
+
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset>
+    dct:created "2005/2017" ;
+    dct:contributor <http://id.loc.gov/authorities/names/n79056337> ;
+    dct:contributor <https://lccn.loc.gov/n79056337> ;
+    dct:description "RDF data extracted from the William Brumfield Russian Architecture Digital Collection, with enrichments to improve the usability of the dataset as linked data." ;
+    dct:title "William Brumfield Russian Architecture Digital Collection RDF Data" ;
+    a dct:Dataset, void:Dataset ;
+    void:subset  brum:places ;
+    void:subset  brum:agents ;
+    void:subset  brum:russianWorks ;
+    void:subset  brum:subjects ;
+    void:subset  brum:worktypes ;
+    void:subset  brumphotos:amur.rdf ;
+    void:subset  brumphotos:arkhangelsk ;
+    void:subset  brumphotos:buriatiia ;
+    void:subset  brumphotos:chelyabinsk ;
+    void:subset  brumphotos:chita ;
+    void:subset  brumphotos:evreiskaia ;
+    void:subset  brumphotos:irkutsk ;
+    void:subset  brumphotos:kaluga ;
+    void:subset  brumphotos:karelia ;
+    void:subset  brumphotos:khabarovsk ;
+    void:subset  brumphotos:leningrad ;
+    void:subset  brumphotos:moscow ;
+    void:subset  brumphotos:murmansk ;
+    void:subset  brumphotos:nizhnyNovgorod ;
+    void:subset  brumphotos:novgorod ;
+    void:subset  brumphotos:omsk ;
+    void:subset  brumphotos:perm ;
+    void:subset  brumphotos:primorskiiKrai ;
+    void:subset  brumphotos:sakha ;
+    void:subset  brumphotos:smolensk ;
+    void:subset  brumphotos:tatarstan ;
+    void:subset  brumphotos:tiumen ;
+    void:subset  brumphotos:tula ;
+    void:subset  brumphotos:tver ;
+    void:subset  brumphotos:vladimir ;
+    void:subset  brumphotos:vologda ;
+    void:subset  brumphotos:yaroslavl .
+    
+
