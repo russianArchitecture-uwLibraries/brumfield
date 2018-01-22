@@ -5,20 +5,30 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix uwp: <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/platforms#> .
+@prefix uwrecon: <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies/reconVocab#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
 
 
-brum:agents a void:Dataset ;
-            uwrecon:deDuped true ;
-            uwrecon:containsEntity vra:Agent, vra:Organization, vra:Person ;
-            uwrecon:targetVocab <https://ru.wikipedia.org/wiki/>, <http://dbpedia.org/resource/>, <http://viaf.org/viaf/> ;
-            uwrecon:targetVocabSecondary <http://vocab.getty.edu/ulan>, <https://www.wikidata.org/wiki/Q4097170> ;
-            uwrecon:targetVocab 
-            uwrecon:linkPredicate dcterms:isReferencedBy ;
-            uwrecon:linkPredicate owl:sameAs ;
-            uwrecon:platform ump:platform1 , uwp:platform2, uwp:platform3, uwp:platform4  ;
-            void:classPartition [ void:class vra:Agent ] ;
-            void:classPartition [ void:class vra:Organization ] ;
-            void:classPartition [ void:class vra:Person ] ; 
-            void:dataDump brum:agents.rdf, brum:agents.ttl ;
-            void:inDataset <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset> .
+<> a void:DatasetDescription ;
+      dcterms:title "Description of the 'agents' dataset" ;
+      dcterms:description "This resource describes the 'agents' dataset in the William Craft Brumfield Russian Architecture Digital Collection RDF Data." ;
+      foaf:primaryTopic brum:agents.rdf ;
+      dcterms:subject brum:agents.rdf .
+brum:agents.rdf a void:Dataset ;
+      dcterms:title "William Craft Brumfield Russian Architecture Digital Collection RDF Data agents dataset" ;
+      dcterms:description "This dataset is a list of all agents, including people and organizations, referenced in the 'works' dataset and all the 'photos' datasets in the William Craft Brumfield Russian Architecture Digital Collection RDF Data." ;
+      dcterms:hasFormat brum:agents.ttl, brum:agents.nt ;
+      uwrecon:deDuped true ;
+      uwrecon:containsEntity vra:Agent, vra:Organization, vra:Person ;
+      uwrecon:targetVocab <https://ru.wikipedia.org/wiki/>, <http://dbpedia.org/resource/>, <http://viaf.org/viaf/> ;
+      uwrecon:targetVocabSecondary <http://vocab.getty.edu/ulan/>, <https://www.wikidata.org/wiki/> ;
+      uwrecon:linkPredicate dcterms:isReferencedBy ;
+      uwrecon:linkPredicate owl:sameAs ;
+      uwrecon:platform uwp:platform1 , uwp:platform2 , uwp:platform3 , uwp:platform4  ;
+      void:classPartition [ void:class vra:Agent ] ;
+      void:classPartition [ void:class vra:Organization ] ;
+      void:classPartition [ void:class vra:Person ] ;
+      void:inDataset <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset> ;
+      void:dataDump brum:agents.rdf, brum:agents.ttl, brum:agents.nt .
+
 

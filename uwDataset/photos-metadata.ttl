@@ -1,0 +1,56 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix schema: <http://schema.org/> .
+@prefix vra: <http://purl.org/vra/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix brum: <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/> .
+@prefix bag: <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agent#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix brumphotos: <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/> .
+
+<> a void:DatasetDescription ;
+	dcterms:title "Description of the 'photos' dataset collection" ;
+	dcterms:description "This resource describes the 'photos' dataset collection in the William Craft Brumfield Russian Architecture Digital Collection RDF Data." ;
+	void:inDataset <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset> ;
+	foaf:primaryTopic brum:photos ;
+      dcterms:subject brum:photos .
+
+brum:photos
+	dcterms:title "William Craft Brumfield Russian Architecture Digital Collection RDF Data Photos dataset collection: 27 datasets describing images in a given Russian oblast of architectural interest" ;
+    vra:description "This dataset represents over 29,000 images of Russian sites, mostly buildings constructed from the Middle Ages to the present. The original film photographs were taken between 1970 and 2008 by a single photographer, Professor William Craft Brumfield of Tulane University. For the digital collection, in most cases the photographer scanned negatives to produce TIFFs; there are cases when the images were born digital and saved as TIFFs. In all cases the TIFFs were sent to the University of Washington Libraries with embedded metadata and converted to JPEGs, which were edited using Photoshop. Copyright to all images - digital, prints, and negatives - is owned by William Brumfield; to order a reproduction or inquire about permissions, contact the photographer at williambrumfield@gmail.com. The dataset itself is derived from the photographer's image metadata, amplified by metadata specialists at the University of Washington Libraries; the actual start date for the creation of this metadata cannot be accurately determined; we are claiming the metadata was actually begun with the first photograph and ends with the end of the William Craft Brumfield Russian Architecture Digital Collection RDF Data project in 2018." ;
+    vra:photographer bag:agent0001 ;
+    vra:wasCreated [
+        vra:endDate "2018" ;
+        vra:startDate "1970-06-19" ;
+        a vra:Event
+    ] ;
+    schema:provider <http://id.loc.gov/authorities/names/n79056337> ;
+    a void:Dataset ;
+    void:inDataset <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset> ;
+    void:subset  brumphotos:amur.rdf ;
+    void:subset  brumphotos:arkhangelsk ;
+    void:subset  brumphotos:buriatiia ;
+    void:subset  brumphotos:chelyabinsk ;
+    void:subset  brumphotos:chita ;
+    void:subset  brumphotos:evreiskaia ;
+    void:subset  brumphotos:irkutsk ;
+    void:subset  brumphotos:kaluga ;
+    void:subset  brumphotos:karelia ;
+    void:subset  brumphotos:khabarovsk ;
+    void:subset  brumphotos:leningrad ;
+    void:subset  brumphotos:moscow ;
+    void:subset  brumphotos:murmansk ;
+    void:subset  brumphotos:nizhnyNovgorod ;
+    void:subset  brumphotos:novgorod ;
+    void:subset  brumphotos:omsk ;
+    void:subset  brumphotos:perm ;
+    void:subset  brumphotos:primorskiiKrai ;
+    void:subset  brumphotos:sakha ;
+    void:subset  brumphotos:smolensk ;
+    void:subset  brumphotos:tatarstan ;
+    void:subset  brumphotos:tiumen ;
+    void:subset  brumphotos:tula ;
+    void:subset  brumphotos:tver ;
+    void:subset  brumphotos:vladimir ;
+    void:subset  brumphotos:vologda ;
+    void:subset  brumphotos:yaroslavl.

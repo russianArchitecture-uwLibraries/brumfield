@@ -1,0 +1,7 @@
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/rights#rightsStatement0001>
+        a           <http://purl.org/dc/terms/RightsStatement> ;
+        rdf:value   <http://rightsstatements.org/vocab/InC/1.0/> ;
+        rdfs:label  "copyrighted" , "Copyright held by William C. Brumfield" .

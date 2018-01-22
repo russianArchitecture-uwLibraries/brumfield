@@ -1,0 +1,43 @@
+<file:///Users/theodore/Documents/uwl/brumfield/brum-ld/rdf/gitRepo/uwDataset/photos-metadata.ttl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#DatasetDescription> .
+<file:///Users/theodore/Documents/uwl/brumfield/brum-ld/rdf/gitRepo/uwDataset/photos-metadata.ttl> <http://purl.org/dc/terms/title> "Description of the 'photos' dataset collection" .
+<file:///Users/theodore/Documents/uwl/brumfield/brum-ld/rdf/gitRepo/uwDataset/photos-metadata.ttl> <http://purl.org/dc/terms/description> "This resource describes the 'photos' dataset collection in the William Craft Brumfield Russian Architecture Digital Collection RDF Data." .
+<file:///Users/theodore/Documents/uwl/brumfield/brum-ld/rdf/gitRepo/uwDataset/photos-metadata.ttl> <http://rdfs.org/ns/void#inDataset> <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset> .
+<file:///Users/theodore/Documents/uwl/brumfield/brum-ld/rdf/gitRepo/uwDataset/photos-metadata.ttl> <http://xmlns.com/foaf/0.1/primaryTopic> <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos> .
+<file:///Users/theodore/Documents/uwl/brumfield/brum-ld/rdf/gitRepo/uwDataset/photos-metadata.ttl> <http://purl.org/dc/terms/subject> <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos> .
+_:genid1 <http://purl.org/vra/endDate> "2018" .
+_:genid1 <http://purl.org/vra/startDate> "1970-06-19" .
+_:genid1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vra/Event> .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos> <http://purl.org/dc/terms/title> "William Craft Brumfield Russian Architecture Digital Collection RDF Data Photos dataset collection: 27 datasets describing images in a given Russian oblast of architectural interest" .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos> <http://purl.org/vra/description> "This dataset represents over 29,000 images of Russian sites, mostly buildings constructed from the Middle Ages to the present. The original film photographs were taken between 1970 and 2008 by a single photographer, Professor William Craft Brumfield of Tulane University. For the digital collection, in most cases the photographer scanned negatives to produce TIFFs; there are cases when the images were born digital and saved as TIFFs. In all cases the TIFFs were sent to the University of Washington Libraries with embedded metadata and converted to JPEGs, which were edited using Photoshop. Copyright to all images - digital, prints, and negatives - is owned by William Brumfield; to order a reproduction or inquire about permissions, contact the photographer at williambrumfield@gmail.com. The dataset itself is derived from the photographer's image metadata, amplified by metadata specialists at the University of Washington Libraries; the actual start date for the creation of this metadata cannot be accurately determined; we are claiming the metadata was actually begun with the first photograph and ends with the end of the William Craft Brumfield Russian Architecture Digital Collection RDF Data project in 2018." .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos> <http://purl.org/vra/photographer> <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agent#agent0001> .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos> <http://purl.org/vra/wasCreated> _:genid1 .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos> <http://schema.org/provider> <http://id.loc.gov/authorities/names/n79056337> .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos> <http://rdfs.org/ns/void#inDataset> <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset> .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos> <http://rdfs.org/ns/void#subset> <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/amur.rdf> .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos> <http://rdfs.org/ns/void#subset> <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/arkhangelsk> .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos> <http://rdfs.org/ns/void#subset> <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/buriatiia> .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos> <http://rdfs.org/ns/void#subset> <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/chelyabinsk> .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos> <http://rdfs.org/ns/void#subset> <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/chita> .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos> <http://rdfs.org/ns/void#subset> <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/evreiskaia> .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos> <http://rdfs.org/ns/void#subset> <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/irkutsk> .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos> <http://rdfs.org/ns/void#subset> <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/kaluga> .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos> <http://rdfs.org/ns/void#subset> <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/karelia> .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos> <http://rdfs.org/ns/void#subset> <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/khabarovsk> .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos> <http://rdfs.org/ns/void#subset> <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/leningrad> .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos> <http://rdfs.org/ns/void#subset> <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/moscow> .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos> <http://rdfs.org/ns/void#subset> <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/murmansk> .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos> <http://rdfs.org/ns/void#subset> <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/nizhnyNovgorod> .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos> <http://rdfs.org/ns/void#subset> <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/novgorod> .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos> <http://rdfs.org/ns/void#subset> <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/omsk> .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos> <http://rdfs.org/ns/void#subset> <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/perm> .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos> <http://rdfs.org/ns/void#subset> <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/primorskiiKrai> .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos> <http://rdfs.org/ns/void#subset> <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/sakha> .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos> <http://rdfs.org/ns/void#subset> <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/smolensk> .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos> <http://rdfs.org/ns/void#subset> <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/tatarstan> .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos> <http://rdfs.org/ns/void#subset> <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/tiumen> .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos> <http://rdfs.org/ns/void#subset> <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/tula> .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos> <http://rdfs.org/ns/void#subset> <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/tver> .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos> <http://rdfs.org/ns/void#subset> <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/vladimir> .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos> <http://rdfs.org/ns/void#subset> <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/vologda> .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos> <http://rdfs.org/ns/void#subset> <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/yaroslavl> .

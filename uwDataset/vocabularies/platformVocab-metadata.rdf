@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:brum="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/" xmlns:bvoc="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:void="http://rdfs.org/ns/void#">
+  <rdf:Description rdf:about="file:///Users/theodore/Documents/uwl/brumfield/brum-ld/rdf/gitRepo/uwDataset/vocabularies/platformVocab-metadata.ttl">
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#DatasetDescription"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///Users/theodore/Documents/uwl/brumfield/brum-ld/rdf/gitRepo/uwDataset/vocabularies/platformVocab-metadata.ttl">
+    <dcterms:title>Desciption of the 'Platform Vocabulary'</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///Users/theodore/Documents/uwl/brumfield/brum-ld/rdf/gitRepo/uwDataset/vocabularies/platformVocab-metadata.ttl">
+    <dcterms:description>This resource describes the 'University of Washington Libraries Metadata Platform Vocabulary.'</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///Users/theodore/Documents/uwl/brumfield/brum-ld/rdf/gitRepo/uwDataset/vocabularies/platformVocab-metadata.ttl">
+    <foaf:primaryTopic rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies/platformVocab.rdf"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///Users/theodore/Documents/uwl/brumfield/brum-ld/rdf/gitRepo/uwDataset/vocabularies/platformVocab-metadata.ttl">
+    <dcterms:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies/platformVocab.rdf"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies/platformVocab.rdf">
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies/platformVocab.rdf">
+    <void:inDataset rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies/platformVocab.rdf">
+    <dcterms:title>University of Washington Libraries Metadata Platform Vocabulary</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies/platformVocab.rdf">
+    <dcterms:hasFormat rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/platformVocab.ttl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies/platformVocab.rdf">
+    <dcterms:hasFormat rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/platformVocab.nt"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies/platformVocab.rdf">
+    <void:dataDump rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/platformVocab.rdf"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies/platformVocab.rdf">
+    <void:dataDump rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/platformVocab.ttl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies/platformVocab.rdf">
+    <void:dataDump rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/platformVocab.nt"/>
+  </rdf:Description>
+</rdf:RDF>

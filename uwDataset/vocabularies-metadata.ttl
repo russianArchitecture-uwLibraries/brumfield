@@ -1,0 +1,30 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix schema: <http://schema.org/> .
+@prefix vra: <http://purl.org/vra/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix brum: <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix brumvoc: <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies/> .
+
+<> a void:DatasetDescription ;
+	dcterms:title "Description of the 'vocabularies' dataset collection" ;
+	dcterms:description "This resource describes the 'vocabularies' dataset collection in the William Craft Brumfield Russian Architecture Digital Collection RDF Data." ;
+	void:inDataset <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset> ;
+	foaf:primaryTopic brum:vocabularies ;
+      dcterms:subject brum:vocabularies .
+
+brum:vocabularies
+    a void:Dataset ;
+	dcterms:title "William Craft Brumfield Russian Architecture Digital Collection RDF Data Vocabularies" ;
+    vra:description "This is a collection of datasets that serve as linked data vocabularies for the William Craft Brumfield Russian Architecture Digital Collection RDF Data. The vocabularies were created locally as needed; they are either taxonomies listing values intended to be used as the objects of triples, ontology extensions to the well-established ontologies used in the dataset, or locally created ontologies providng classes and properties deemed necessary for describing our resources." ;
+    dcterms:creator <http://id.loc.gov/authorities/names/n79056337> ;
+    vra:creator <http://id.loc.gov/authorities/names/n79056337> ;
+    schema:provider <http://id.loc.gov/authorities/names/n79056337> ;
+    vra:wasCreated [
+        vra:endDate "2018" ;
+        vra:startDate "2016" ;
+        a vra:Event
+    ] ;
+    void:inDataset <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset> ;
+    void:subset brumvoc:platformVocab.ttl, brumvoc:platformVocab.rdf, brumvoc:platformVocab.nt, brumvoc:reconVocab.ttl, brumvoc:reconVocab.rdf, brumvoc:reconVocab.nt .

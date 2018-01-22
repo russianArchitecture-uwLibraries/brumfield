@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:bag="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agent#" xmlns:brum="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/" xmlns:brumphotos="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/" xmlns:dct="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:void="http://rdfs.org/ns/void#" xmlns:vra="http://purl.org/vra/">
+  <rdf:Description rdf:about="file:///Users/theodore/Documents/uwl/brumfield/brum-ld/rdf/gitRepo/uwDataset-metadata.ttl">
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#DatasetDescription"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///Users/theodore/Documents/uwl/brumfield/brum-ld/rdf/gitRepo/uwDataset-metadata.ttl">
+    <dct:title>Description of the William Craft Brumfield Russian Architecture Digital Collection RDF Data</dct:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///Users/theodore/Documents/uwl/brumfield/brum-ld/rdf/gitRepo/uwDataset-metadata.ttl">
+    <dct:description>This resource describes the William Craft Brumfield Russian Architecture Digital Collection RDF Data.</dct:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///Users/theodore/Documents/uwl/brumfield/brum-ld/rdf/gitRepo/uwDataset-metadata.ttl">
+    <foaf:primaryTopic rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///Users/theodore/Documents/uwl/brumfield/brum-ld/rdf/gitRepo/uwDataset-metadata.ttl">
+    <dct:subject rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="genid1">
+    <vra:endDate>2018</vra:endDate>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="genid1">
+    <vra:startDate>2005</vra:startDate>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="genid1">
+    <rdf:type rdf:resource="http://purl.org/vra/Event"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+    <dct:created>2005/2018</dct:created>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+    <vra:wasCreated rdf:nodeID="genid1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+    <dct:contributor rdf:resource="http://id.loc.gov/authorities/names/n79056337"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+    <dct:contributor rdf:resource="https://lccn.loc.gov/n79056337"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+    <dct:contributor rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agent#agent0001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+    <dct:description>RDF data extracted from the William Brumfield Russian Architecture Digital Collection, with enrichments to improve the usability of the dataset as linked data.</dct:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+    <dct:title>William Brumfield Russian Architecture Digital Collection RDF Data</dct:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+    <rdf:type rdf:resource="http://purl.org/dc/terms/Dataset"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+    <void:subset rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents.rdf"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+    <void:subset rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents.ttl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+    <void:subset rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/agents.nt"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+    <void:subset rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+    <void:subset rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/places.rdf"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+    <void:subset rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/places.ttl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+    <void:subset rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/places.nt"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+    <void:subset rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/rights.rdf"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+    <void:subset rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/rights.ttl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+    <void:subset rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/rights.nt"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+    <void:subset rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects.rdf"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+    <void:subset rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects.ttl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+    <void:subset rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects.nt"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+    <void:subset rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/works.rdf"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+    <void:subset rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/works.ttl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+    <void:subset rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/works.nt"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+    <void:subset rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes.rdf"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+    <void:subset rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes.ttl"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+    <void:subset rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/worktypes.nt"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+    <void:subset rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/amur.rdf"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+    <void:subset rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/arkhangelsk"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+    <void:subset rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/buriatiia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+    <void:subset rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/chelyabinsk"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+    <void:subset rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/chita"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+    <void:subset rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/evreiskaia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+    <void:subset rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/irkutsk"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+    <void:subset rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/kaluga"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+    <void:subset rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/karelia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+    <void:subset rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/khabarovsk"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+    <void:subset rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/leningrad"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+    <void:subset rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/moscow"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+    <void:subset rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/murmansk"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+    <void:subset rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/nizhnyNovgorod"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+    <void:subset rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/novgorod"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+    <void:subset rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/omsk"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+    <void:subset rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/perm"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+    <void:subset rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/primorskiiKrai"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+    <void:subset rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/sakha"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+    <void:subset rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/smolensk"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+    <void:subset rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/tatarstan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+    <void:subset rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/tiumen"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+    <void:subset rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/tula"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+    <void:subset rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/tver"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+    <void:subset rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/vladimir"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+    <void:subset rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/vologda"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset">
+    <void:subset rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/photos/yaroslavl"/>
+  </rdf:Description>
+</rdf:RDF>

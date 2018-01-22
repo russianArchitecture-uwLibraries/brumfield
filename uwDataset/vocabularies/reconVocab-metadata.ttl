@@ -1,0 +1,19 @@
+@prefix brum: <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix bvoc: <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies/> .
+
+<> a void:DatasetDescription ;
+	dcterms:title "Desciption of the 'Reconciliation Vocabulary'" ;
+	dcterms:description "This resource describes the 'University of Washington Libraries Linked Data Reconciliation Vocabulary.'" ;
+	foaf:primaryTopic bvoc:reconVocab.rdf ;
+	dcterms:subject bvoc:reconVocab.rdf .
+
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies/reconVocab.rdf> a void:Dataset ;
+	void:inDataset <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset> ;
+	dcterms:title  "University of Washington Libraries Linked Data Reconciliation Vocabulary";
+	dcterms:description:  "This vocabulary lists the classes and properties needed to describe processes used to enrich local datasets; specifically, to relate an entity in a local dataset with an entity in an external dataset, then input that relation into the local dataset. This is what is meant by the word 'link' in linked data. The word reconciliation refers to the process of reconciling the identity of a local entity to an external entity; the phrase entity matching refers to the same or similar process. The vocabulary was created for use with 'William Craft Brumfield Russian Architecture Digital Collection RDF Data' where information needed to be recorded about the reconciliation process, requiring classes and properties outside the scope of other ontologies at this time. This information about the reconciliation process has been most useful to those administering the datasets. It is common to think of this information as provenance metadata, where reconciliation processes enrich and alter a dataset in our custody." ;
+	dcterms:hasFormat brum:reconVocab.ttl, brum:reconVocab.nt ;
+	void:dataDump  brum:reconVocab.rdf, brum:reconVocab.ttl, brum:reconVocab.nt .
+	

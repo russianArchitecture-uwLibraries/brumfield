@@ -1,0 +1,29 @@
+@prefix brum: <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix vra:   <http://purl.org/vra/> .
+@prefix schema: <http://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix uwp: <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/platforms#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dctype: <http://purl.org/dc/dcmitype/> .
+@prefix uwrecon: <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies/reconciliation#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+
+brum:works 	a void:DatasetDescription ;
+			dcterms:title "Description of the 'works' dataset" ;
+      		dcterms:description "This resource describes the 'works' dataset in the William Craft Brumfield Russian Architecture Digital Collection RDF Data." ;
+      		void:inDataset <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset> ;
+      		foaf:primaryTopic brum:works.rdf ;
+      		dcterms:subject brum:works.rdf . 
+
+brum:works.rdf a void:Dataset ;
+            uwrecon:deDuped false ;
+            uwrecon:containsEntity vra:Work, dctype:PhysicalObject ; 
+            uwrecon:processingNote "There are additional 368 types entered as values of uwext:worktype, which are mostly worktypes taken from AAT and described in worktypes.ttl." ;
+            uwrecon:processingNote "Cannot use skos mapping properties here, as they have domain=skos:Concept." ;
+            void:classPartition [ void:class vra:Work ] ;
+            void:classPartition [ void:class dctype:PhysicalObject ] ;
+            void:dataDump brum:works.rdf, brum:works.ttl, brum:works.nt  ;
+            void:inDataset <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset> .
+

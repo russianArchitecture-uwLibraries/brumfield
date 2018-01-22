@@ -1,4 +1,5 @@
 @prefix uwpv: <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies/platformVocab#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 uwpv:Platform   a   rdfs:Class .
 

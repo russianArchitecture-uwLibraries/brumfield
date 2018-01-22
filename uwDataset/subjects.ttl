@@ -1,0 +1,3457 @@
+@prefix vra:   <http://purl.org/vra/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix uwsub: <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#> .
+
+uwsub:foliationpattern
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "foliation (pattern)" .
+
+uwsub:loggias  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "loggias" .
+
+uwsub:ridgesroofcomponents
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "ridges (roof components)" .
+
+uwsub:vases  a    <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "vases" .
+
+uwsub:precipitation  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "precipitation" .
+
+uwsub:Avesclass  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "Aves (class)" .
+
+uwsub:Canisfamiliarisspecies
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "Canis familiaris (species)" .
+
+uwsub:Equuscaballusspecies
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "Equus caballus (species)" .
+
+uwsub:Felisdomesticusspecies
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "Felis domesticus (species)" .
+
+uwsub:Ferriswheels  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "Ferris wheels" .
+
+uwsub:Gallusgallusspecies
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "Gallus gallus (species)" .
+
+uwsub:Hanukkahlamps  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "Hanukkah lamps" .
+
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#Lenin,VladimirIlich,1870-1924>
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "Lenin, Vladimir Il'ich, 1870-1924" .
+
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/subjects#Lomonosov,MikhailVasilevich,1711-1765>
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "Lomonosov, Mikhail Vasil'evich, 1711-1765" .
+
+uwsub:Malusgenus  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "Malus (genus)" .
+
+uwsub:None  a     <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "None" .
+
+uwsub:NorthernDvinaRiverRussia
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "Northern Dvina River (Russia)" .
+
+uwsub:Palladianwindows
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "Palladian windows" .
+
+uwsub:Salixgenus  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "Salix (genus)" .
+
+uwsub:StarsofDavid  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "Stars of David" .
+
+uwsub:abandonedfarms  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "abandoned farms" .
+
+uwsub:abandonedstructures
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "abandoned structures" .
+
+uwsub:abutments  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "abutments" .
+
+uwsub:acanthusmotif  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "acanthus (motif)" .
+
+uwsub:accessdoors  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "access doors" .
+
+uwsub:accessroads  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "access roads" .
+
+uwsub:additionsgeneralcomponents
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "additions (general components)" .
+
+uwsub:administrationbuildings
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "administration buildings" .
+
+uwsub:aedicules  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "aedicules" .
+
+uwsub:agriculturalbuildings
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "agricultural buildings" .
+
+uwsub:aisles  a   <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "aisles" .
+
+uwsub:altartombs  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "altar tombs" .
+
+uwsub:amphitheatersbuiltworks
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "amphitheaters (built works)" .
+
+uwsub:anglejoints  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "angle joints" .
+
+uwsub:animalart  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "animal art" .
+
+uwsub:antennas  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "antennas" .
+
+uwsub:apartmenthouses
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "apartment houses" .
+
+uwsub:appenticesbuildings
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "appentices (buildings)" .
+
+uwsub:applieddecoration
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "applied decoration" .
+
+uwsub:appliedmoldings
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "applied moldings" .
+
+uwsub:apses  a    <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "apses" .
+
+uwsub:arcadesstructuralassemblies
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "arcades (structural assemblies)" .
+
+uwsub:arches  a   <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "arches" .
+
+uwsub:architecturalcanopies
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "architectural canopies" .
+
+uwsub:architravetrims
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "architrave trims" .
+
+uwsub:archivolts  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "archivolts" .
+
+uwsub:archways  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "archways" .
+
+uwsub:arenas  a   <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "arenas" .
+
+uwsub:armchairs  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "armchairs" .
+
+uwsub:assemblyhalls  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "assembly halls" .
+
+uwsub:atriumsinteriorspaces
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "atriums (interior spaces)" .
+
+uwsub:auditoriums  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "auditoriums" .
+
+uwsub:automobiles  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "automobiles" .
+
+uwsub:avenues  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "avenues" .
+
+uwsub:awnings  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "awnings" .
+
+uwsub:balconets  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "balconets" .
+
+uwsub:balconies  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "balconies" .
+
+uwsub:baldachinscanopies
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "baldachins (canopies)" .
+
+uwsub:balloonstoys  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "balloons (toys)" .
+
+uwsub:balustercolumns
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "baluster columns" .
+
+uwsub:balustersrailingcomponents
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "balusters (railing components)" .
+
+uwsub:balustrades  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "balustrades" .
+
+uwsub:bandsensembles  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "bands (ensembles)" .
+
+uwsub:banners  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "banners" .
+
+uwsub:barbedwire  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "barbed wire" .
+
+uwsub:bargeboards  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "bargeboards" .
+
+uwsub:barns  a    <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "barns" .
+
+uwsub:barracks  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "barracks" .
+
+uwsub:barrelceilings  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "barrel ceilings" .
+
+uwsub:barrelroofs  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "barrel roofs" .
+
+uwsub:barrelvaults  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "barrel vaults" .
+
+uwsub:barrelscontainers
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "barrels (containers)" .
+
+uwsub:barricades  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "barricades" .
+
+uwsub:barriers  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "barriers" .
+
+uwsub:barsbuildingmaterials
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "bars (building materials)" .
+
+uwsub:bas-reliefssculpture
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "bas-reliefs (sculpture)" .
+
+uwsub:baseboards  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "baseboards" .
+
+uwsub:basesobjectcomponents
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "bases (object components)" .
+
+uwsub:basketscontainers
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "baskets (containers)" .
+
+uwsub:bathhouseswaterrecreationstructures
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "bathhouses (water recreation structures)" .
+
+uwsub:batteriesplatforms
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "batteries (platforms)" .
+
+uwsub:battlements  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "battlements" .
+
+uwsub:baywindows  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "bay windows" .
+
+uwsub:baysbodiesofwater
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "bays (bodies of water)" .
+
+uwsub:baysbuildingdivisions
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "bays (building divisions)" .
+
+uwsub:beaches  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "beaches" .
+
+uwsub:beamceilings  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "beam ceilings" .
+
+uwsub:beamsstructuralelements
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "beams (structural elements)" .
+
+uwsub:bedposts  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "bedposts" .
+
+uwsub:bedrooms  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "bedrooms" .
+
+uwsub:bedsfurniture  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "beds (furniture)" .
+
+uwsub:belfriesequipmentspaces
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "belfries (equipment spaces)" .
+
+uwsub:bellcotes  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "bell cotes" .
+
+uwsub:belltowers  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "bell towers" .
+
+uwsub:bellsidiophones
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "bells (idiophones)" .
+
+uwsub:belvederes  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "belvederes" .
+
+uwsub:benchesfurniture
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "benches (furniture)" .
+
+uwsub:bicycles  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "bicycles" .
+
+uwsub:bicyclists  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "bicyclists" .
+
+uwsub:billboardssiteelements
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "billboards (site elements)" .
+
+uwsub:birdhouses  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "birdhouses" .
+
+uwsub:blindarcades  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "blind arcades" .
+
+uwsub:blindarches  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "blind arches" .
+
+uwsub:blindwindows  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "blind windows" .
+
+uwsub:blindscoverings
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "blinds (coverings)" .
+
+uwsub:boardsflatobjects
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "boards (flat objects)" .
+
+uwsub:boardwalks  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "boardwalks" .
+
+uwsub:boats  a    <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "boats" .
+
+uwsub:bochki  a   <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "bochki" .
+
+uwsub:bookcases  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "bookcases" .
+
+uwsub:bookshelves  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "bookshelves" .
+
+uwsub:bottles  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "bottles" .
+
+uwsub:boulder  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "boulder" .
+
+uwsub:boundarywalls  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "boundary walls" .
+
+uwsub:bowlsvessels  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "bowls (vessels)" .
+
+uwsub:bowsvehiclecomponents
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "bows (vehicle components)" .
+
+uwsub:boxframes  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "box frames" .
+
+uwsub:boxesaudiencespaces
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "boxes (audience spaces)" .
+
+uwsub:bracketslightingdevices
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "brackets (lighting devices)" .
+
+uwsub:bracketsstructuralelements
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "brackets (structural elements)" .
+
+uwsub:breadpans  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "bread pans" .
+
+uwsub:breweries  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "breweries" .
+
+uwsub:brickworkmasonry
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "brickwork (masonry)" .
+
+uwsub:bridgesbuiltworks
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "bridges (built works)" .
+
+uwsub:brokenpediments
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "broken pediments" .
+
+uwsub:bucketsvessels  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "buckets (vessels)" .
+
+uwsub:buildingmaterials
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "building materials" .
+
+uwsub:buildingsites  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "building sites" .
+
+uwsub:buildingstone  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "building stone" .
+
+uwsub:buildingsstructures
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "buildings (structures)" .
+
+uwsub:built-upbeams  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "built-up beams" .
+
+uwsub:buoys  a    <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "buoys" .
+
+uwsub:burialchambers  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "burial chambers" .
+
+uwsub:busstops  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "bus stops" .
+
+uwsub:buses  a    <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "buses" .
+
+uwsub:bustsfigures  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "busts (figures)" .
+
+uwsub:buttresses  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "buttresses" .
+
+uwsub:cabinetscasefurniture
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "cabinets (case furniture)" .
+
+uwsub:cairns  a   <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "cairns" .
+
+uwsub:camberarches  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "camber arches" .
+
+uwsub:candles  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "candles" .
+
+uwsub:candlesticks  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "candlesticks" .
+
+uwsub:cannonsartillery
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "cannons (artillery)" .
+
+uwsub:canopiesbedcomponents
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "canopies (bed components)" .
+
+uwsub:canopiesstructuralelements
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "canopies (structural elements)" .
+
+uwsub:capmoldings  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "cap moldings" .
+
+uwsub:capitalscolumncomponents
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "capitals (column components)" .
+
+uwsub:cardcatalogs  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "card catalogs" .
+
+uwsub:cargovessels  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "cargo vessels" .
+
+uwsub:carpenters  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "carpenters" .
+
+uwsub:carpets  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "carpets" .
+
+uwsub:carriagesvehicles
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "carriages (vehicles)" .
+
+uwsub:carts  a    <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "carts" .
+
+uwsub:carvingsvisualworks
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "carvings (visual works)" .
+
+uwsub:cathedralceilings
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "cathedral ceilings" .
+
+uwsub:cathedralsbuildings
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "cathedrals (buildings)" .
+
+uwsub:cattle  a   <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "cattle" .
+
+uwsub:ceilingfixtureslightingfixtures
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "ceiling fixtures (lighting fixtures)" .
+
+uwsub:ceilings  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "ceilings" .
+
+uwsub:celebrations  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "celebrations" .
+
+uwsub:cellarsstorerooms
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "cellars (storerooms)" .
+
+uwsub:cemeteries  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "cemeteries" .
+
+uwsub:ceramictile  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "ceramic tile" .
+
+uwsub:ceremonies  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "ceremonies" .
+
+uwsub:chainlinkfences
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "chain link fences" .
+
+uwsub:chainsobjectgenres
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "chains (object genres)" .
+
+uwsub:chandeliershanginglights
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "chandeliers (hanging lights)" .
+
+uwsub:chapelsroomsorstructures
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "chapels (rooms or structures)" .
+
+uwsub:chessboards  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "chessboards" .
+
+uwsub:chestscasefurniture
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "chests (case furniture)" .
+
+uwsub:chevronsmotifs  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "chevrons (motifs)" .
+
+uwsub:childrenpeoplebyagegroup
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "children (people by age group)" .
+
+uwsub:chimneyhoods  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "chimney hoods" .
+
+uwsub:chimneystacks  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "chimney stacks" .
+
+uwsub:chimneysarchitecturalelements
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "chimneys (architectural elements)" .
+
+uwsub:choirschurchspaces
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "choirs (church spaces)" .
+
+uwsub:chromolithographs
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "chromolithographs" .
+
+uwsub:churchtowers  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "church towers" .
+
+uwsub:churchesbuildings
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "churches (buildings)" .
+
+uwsub:churchyards  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "churchyards" .
+
+uwsub:churns  a   <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "churns" .
+
+uwsub:chutes  a   <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "chutes" .
+
+uwsub:circusesperformances
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "circuses (performances)" .
+
+uwsub:cityhalls  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "city halls" .
+
+uwsub:clay  a     <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "clay" .
+
+uwsub:claymortar  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "clay mortar" .
+
+uwsub:clerestories  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "clerestories" .
+
+uwsub:clocks  a   <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "clocks" .
+
+uwsub:cloisters  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "cloisters" .
+
+uwsub:clothing  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "clothing" .
+
+uwsub:clouds  a   <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "clouds" .
+
+uwsub:clubsassociations
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "clubs (associations)" .
+
+uwsub:coatingmaterial
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "coating (material)" .
+
+uwsub:coatracks  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "coatracks" .
+
+uwsub:cofferedceilings
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "coffered ceilings" .
+
+uwsub:coffersceilingcomponents
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "coffers (ceiling components)" .
+
+uwsub:collectionboxes
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "collection boxes" .
+
+uwsub:collectionsobjectgroupings
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "collections (object groupings)" .
+
+uwsub:colonnades  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "colonnades" .
+
+uwsub:columnfigures  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "column figures" .
+
+uwsub:columnsarchitecturalelements
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "columns (architectural elements)" .
+
+uwsub:commemorativesculpture
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "commemorative sculpture" .
+
+uwsub:commercialbuildings
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "commercial buildings" .
+
+uwsub:commonpapers  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "common papers" .
+
+uwsub:compartmentceilings
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "compartment ceilings" .
+
+uwsub:computers  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "computers" .
+
+uwsub:concertgrandpianos
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "concert grand pianos" .
+
+uwsub:conicalroofs  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "conical roofs" .
+
+uwsub:consolesbrackets
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "consoles (brackets)" .
+
+uwsub:constructionassembling
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "construction (assembling)" .
+
+uwsub:constructionequipment
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "construction equipment" .
+
+uwsub:corbelarches  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "corbel arches" .
+
+uwsub:corbels  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "corbels" .
+
+uwsub:corbiegables  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "corbie gables" .
+
+uwsub:cornerboards  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "corner boards" .
+
+uwsub:cornices  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "cornices" .
+
+uwsub:corridors  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "corridors" .
+
+uwsub:costumescharacterdress
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "costumes (character dress)" .
+
+uwsub:cottages  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "cottages" .
+
+uwsub:countryhouses  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "country houses" .
+
+uwsub:coupledcolumns  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "coupled columns" .
+
+uwsub:coupledwindows  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "coupled windows" .
+
+uwsub:courses  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "courses" .
+
+uwsub:courthouses  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "courthouses" .
+
+uwsub:courtyards  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "courtyards" .
+
+uwsub:coveredwalkways
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "covered walkways" .
+
+uwsub:cowsmammals  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "cows (mammals)" .
+
+uwsub:crabappleplant  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "crabapple (plant)" .
+
+uwsub:cranesequipment
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "cranes (equipment)" .
+
+uwsub:crestsmotifs  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "crests (motifs)" .
+
+uwsub:crossgables  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "cross gables" .
+
+uwsub:crossbeams  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "crossbeams" .
+
+uwsub:crossesvisualworks
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "crosses (visual works)" .
+
+uwsub:crosswalks  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "crosswalks" .
+
+uwsub:crownmoldings  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "crown moldings" .
+
+uwsub:crucifixes  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "crucifixes" .
+
+uwsub:cruiseships  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "cruise ships" .
+
+uwsub:cruisers  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "cruisers" .
+
+uwsub:culturalartifacts
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "cultural artifacts" .
+
+uwsub:culturallandscapes
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "cultural landscapes" .
+
+uwsub:cupboards  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "cupboards" .
+
+uwsub:cupolas  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "cupolas" .
+
+uwsub:curbroofs  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "curb roofs" .
+
+uwsub:curtainwallsnonbearingwalls
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "curtain walls (nonbearing walls)" .
+
+uwsub:curtainswindowhangings
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "curtains (window hangings)" .
+
+uwsub:cuspedarches  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "cusped arches" .
+
+uwsub:cyrtostyles  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "cyrtostyles" .
+
+uwsub:dachas  a   <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "dachas" .
+
+uwsub:daises  a   <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "daises" .
+
+uwsub:dancers  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "dancers" .
+
+uwsub:datemarks  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "date marks" .
+
+uwsub:decksuncoveredspaces
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "decks (uncovered spaces)" .
+
+uwsub:deckswatercraftcomponents
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "decks (watercraft components)" .
+
+uwsub:deeses  a   <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "deeses" .
+
+uwsub:defensivewalls  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "defensive walls" .
+
+uwsub:dentils  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "dentils" .
+
+uwsub:departmentstores
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "department stores" .
+
+uwsub:depictionsvisualworks
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "depictions (visual works)" .
+
+uwsub:desks  a    <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "desks" .
+
+uwsub:deterioration  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "deterioration" .
+
+uwsub:diaconica  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "diaconica" .
+
+uwsub:diningrooms  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "dining rooms" .
+
+uwsub:diningtables  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "dining tables" .
+
+uwsub:displaycabinets
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "display cabinets" .
+
+uwsub:displayroomsandspaces
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "display rooms and spaces" .
+
+uwsub:dolls  a    <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "dolls" .
+
+uwsub:domesarchitecturalelements
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "domes (architectural elements)" .
+
+uwsub:domesticanimals
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "domestic animals" .
+
+uwsub:doorheads  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "door heads" .
+
+uwsub:doorknockers  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "door knockers" .
+
+uwsub:doorframes  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "doorframes" .
+
+uwsub:doorjambs  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "doorjambs" .
+
+uwsub:doorknobs  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "doorknobs" .
+
+uwsub:doors  a    <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "doors" .
+
+uwsub:doorsills  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "doorsills" .
+
+uwsub:doorways  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "doorways" .
+
+uwsub:dories  a   <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "dories" .
+
+uwsub:dormers  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "dormers" .
+
+uwsub:dormitoriesbuildings
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "dormitories (buildings)" .
+
+uwsub:doubledoors  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "double doors" .
+
+uwsub:double-gableroofs
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "double-gable roofs" .
+
+uwsub:doubledcolumns  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "doubled columns" .
+
+uwsub:downspouts  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "downspouts" .
+
+uwsub:draperiescurtains
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "draperies (curtains)" .
+
+uwsub:drawingrooms  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "drawing rooms" .
+
+uwsub:drawingsvisualworks
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "drawings (visual works)" .
+
+uwsub:driveways  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "driveways" .
+
+uwsub:drugstores  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "drugstores" .
+
+uwsub:drumswalls  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "drums (walls)" .
+
+uwsub:drydocks  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "dry docks" .
+
+uwsub:drying  a   <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "drying" .
+
+uwsub:dwellings  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "dwellings" .
+
+uwsub:earthlodges  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "earth lodges" .
+
+uwsub:eaves  a    <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "eaves" .
+
+uwsub:egganddartmoldings
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "egg and dart moldings" .
+
+uwsub:electricsubstations
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "electric substations" .
+
+uwsub:electricswitches
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "electric switches" .
+
+uwsub:electricwiring  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "electric wiring" .
+
+uwsub:electricalsystems
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "electrical systems" .
+
+uwsub:ellipticalarches
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "elliptical arches" .
+
+uwsub:embankments  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "embankments" .
+
+uwsub:embroideryvisualworks
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "embroidery (visual works)" .
+
+uwsub:engagedcolumns  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "engaged columns" .
+
+uwsub:entablatures  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "entablatures" .
+
+uwsub:entrances  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "entrances" .
+
+uwsub:equipment  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "equipment" .
+
+uwsub:escalators  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "escalators" .
+
+uwsub:excavationsearthworks
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "excavations (earthworks)" .
+
+uwsub:exhibitcases  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "exhibit cases" .
+
+uwsub:exhibitionsevents
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "exhibitions (events)" .
+
+uwsub:exteriorlighting
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "exterior lighting" .
+
+uwsub:exteriorwalls  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "exterior walls" .
+
+uwsub:eyebrowdormers  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "eyebrow dormers" .
+
+uwsub:falsedoors  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "false doors" .
+
+uwsub:falsefronts  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "false fronts" .
+
+uwsub:fanlights  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "fanlights" .
+
+uwsub:farmhouses  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "farmhouses" .
+
+uwsub:farmland  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "farmland" .
+
+uwsub:farms  a    <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "farms" .
+
+uwsub:fasciaboards  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "fascia boards" .
+
+uwsub:fastfoodrestaurants
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "fast food restaurants" .
+
+uwsub:ferries  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "ferries" .
+
+uwsub:festivals  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "festivals" .
+
+uwsub:festoonmotif  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "festoon (motif)" .
+
+uwsub:fieldsland  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "fields (land)" .
+
+uwsub:figuresrepresentations
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "figures (representations)" .
+
+uwsub:figurines  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "figurines" .
+
+uwsub:finials  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "finials" .
+
+uwsub:fireengines  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "fire engines" .
+
+uwsub:fireescapes  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "fire escapes" .
+
+uwsub:firestations  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "fire stations" .
+
+uwsub:fireplaces  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "fireplaces" .
+
+uwsub:firesevents  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "fires (events)" .
+
+uwsub:firewood  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "firewood" .
+
+uwsub:fishermenpeople
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "fishermen (people)" .
+
+uwsub:fishhooks  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "fishhooks" .
+
+uwsub:fishmongers  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "fishmongers" .
+
+uwsub:fixedwindows  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "fixed windows" .
+
+uwsub:flagpoles  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "flagpoles" .
+
+uwsub:flags  a    <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "flags" .
+
+uwsub:flatarches  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "flat arches" .
+
+uwsub:flatroofs  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "flat roofs" .
+
+uwsub:floodprotectionworks
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "flood protection works" .
+
+uwsub:floortile  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "floor tile" .
+
+uwsub:floorssurfaceelements
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "floors (surface elements)" .
+
+uwsub:floraplants  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "flora (plants)" .
+
+uwsub:floralpatterns  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "floral patterns" .
+
+uwsub:flowermotif  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "flower (motif)" .
+
+uwsub:flowervases  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "flower vases" .
+
+uwsub:flowerpots  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "flowerpots" .
+
+uwsub:flues  a    <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "flues" .
+
+uwsub:food  a     <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "food" .
+
+uwsub:footbridges  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "footbridges" .
+
+uwsub:footpaths  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "footpaths" .
+
+uwsub:footstoolsstools
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "footstools (stools)" .
+
+uwsub:fortresses  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "fortresses" .
+
+uwsub:foundationsstructuralelements
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "foundations (structural elements)" .
+
+uwsub:fountains  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "fountains" .
+
+uwsub:frameconstruction
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "frame construction" .
+
+uwsub:frescoespaintings
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "frescoes (paintings)" .
+
+uwsub:friezesornamentalareas
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "friezes (ornamental areas)" .
+
+uwsub:funicularrailways
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "funicular railways" .
+
+uwsub:furstoles  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "fur stoles" .
+
+uwsub:furnishingsandequipment
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "furnishings and equipment" .
+
+uwsub:furniture  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "furniture" .
+
+uwsub:gabledormers  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "gable dormers" .
+
+uwsub:gableends  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "gable ends" .
+
+uwsub:gableroofs  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "gable roofs" .
+
+uwsub:gable-on-hiproofs
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "gable-on-hip roofs" .
+
+uwsub:gablesarchitecturalelements
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "gables (architectural elements)" .
+
+uwsub:gablets  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "gablets" .
+
+uwsub:galleriesdisplayspaces
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "galleries (display spaces)" .
+
+uwsub:galleriesupperlevelspaces
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "galleries (upper level spaces)" .
+
+uwsub:gambrelroofs  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "gambrel roofs" .
+
+uwsub:garagedoors  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "garage doors" .
+
+uwsub:garages  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "garages" .
+
+uwsub:gaspipelines  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "gas pipelines" .
+
+uwsub:gatechurches  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "gate churches" .
+
+uwsub:gatetowers  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "gate towers" .
+
+uwsub:gatehouses  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "gatehouses" .
+
+uwsub:gates  a    <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "gates" .
+
+uwsub:gateways  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "gateways" .
+
+uwsub:gazebos  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "gazebos" .
+
+uwsub:gears  a    <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "gears" .
+
+uwsub:generalstores  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "general stores" .
+
+uwsub:girders  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "girders" .
+
+uwsub:glassmaterial  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "glass (material)" .
+
+uwsub:gloves  a   <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "gloves" .
+
+uwsub:graffiti  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "graffiti" .
+
+uwsub:grandpianos  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "grand pianos" .
+
+uwsub:grassesplants  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "grasses (plants)" .
+
+uwsub:graves  a   <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "graves" .
+
+uwsub:greenhouses  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "greenhouses" .
+
+uwsub:grillesbarrierelements
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "grilles (barrier elements)" .
+
+uwsub:grocerystores  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "grocery stores" .
+
+uwsub:grotesques  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "grotesques" .
+
+uwsub:grottoes  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "grottoes" .
+
+uwsub:groundsopenspaces
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "grounds (open spaces)" .
+
+uwsub:groupedcolumns  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "grouped columns" .
+
+uwsub:grovesplantcommunities
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "groves (plant communities)" .
+
+uwsub:guardrails  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "guardrails" .
+
+uwsub:guitars  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "guitars" .
+
+uwsub:gulfs  a    <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "gulfs" .
+
+uwsub:gunboats  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "gunboats" .
+
+uwsub:guttersbuildingdrainagecomponents
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "gutters (building drainage components)" .
+
+uwsub:halfcolumns  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "half columns" .
+
+uwsub:hammerstools  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "hammers (tools)" .
+
+uwsub:hand-painted  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "hand-painted" .
+
+uwsub:handles  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "handles" .
+
+uwsub:handrails  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "handrails" .
+
+uwsub:hanginglamps  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "hanging lamps" .
+
+uwsub:hangingposts  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "hanging posts" .
+
+uwsub:harpsichords  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "harpsichords" .
+
+uwsub:headsrepresentations
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "heads (representations)" .
+
+uwsub:heartsmotifs  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "hearts (motifs)" .
+
+uwsub:helicopters  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "helicopters" .
+
+uwsub:helipads  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "helipads" .
+
+uwsub:highschoolsbuildings
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "high schools (buildings)" .
+
+uwsub:high-risebuildings
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "high-rise buildings" .
+
+uwsub:hills  a    <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "hills" .
+
+uwsub:hillsidearchitecture
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "hillside architecture" .
+
+uwsub:hingedwindows  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "hinged windows" .
+
+uwsub:hingeshardware  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "hinges (hardware)" .
+
+uwsub:hiproofs  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "hip roofs" .
+
+uwsub:historichouses  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "historic houses" .
+
+uwsub:historicpreservation
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "historic preservation" .
+
+uwsub:holywells  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "holy wells" .
+
+uwsub:hoodmoldings  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "hood moldings" .
+
+uwsub:horsebarns  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "horse barns" .
+
+uwsub:hospitalsbuildingsforhealthfacility
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "hospitals (buildings for health facility)" .
+
+uwsub:hotelspublicaccommodations
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "hotels (public accommodations)" .
+
+uwsub:hourglasses  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "hourglasses" .
+
+uwsub:houseplants  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "houseplants" .
+
+uwsub:houses  a   <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "houses" .
+
+uwsub:hulls  a    <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "hulls" .
+
+uwsub:hydroelectricpowerplants
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "hydroelectric power plants" .
+
+uwsub:hydrofoils  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "hydrofoils" .
+
+uwsub:icepalaces  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "ice palaces" .
+
+uwsub:iceskatingrinks
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "ice skating rinks" .
+
+uwsub:icehouses  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "icehouses" .
+
+uwsub:iconostases  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "iconostases" .
+
+uwsub:iconsdevotionalimages
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "icons (devotional images)" .
+
+uwsub:identificationsigns
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "identification signs" .
+
+uwsub:impostblocks  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "impost blocks" .
+
+uwsub:incenseburners  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "incense burners" .
+
+uwsub:industrialbuildings
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "industrial buildings" .
+
+uwsub:infirmaries  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "infirmaries" .
+
+uwsub:informationsigns
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "information signs" .
+
+uwsub:inhabitedplaces
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "inhabited places" .
+
+uwsub:inlets  a   <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "inlets" .
+
+uwsub:inscriptions  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "inscriptions" .
+
+uwsub:intersections  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "intersections" .
+
+uwsub:ironworkvisualworks
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "ironwork (visual works)" .
+
+uwsub:isbas  a    <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "isbas" .
+
+uwsub:jambfigures  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "jamb figures" .
+
+uwsub:jeeps  a    <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "jeeps" .
+
+uwsub:jerkinheadroofs
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "jerkinhead roofs" .
+
+uwsub:jointsconnections
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "joints (connections)" .
+
+uwsub:joists  a   <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "joists" .
+
+uwsub:kettlestands  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "kettle stands" .
+
+uwsub:kettlesvessels  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "kettles (vessels)" .
+
+uwsub:keystones  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "keystones" .
+
+uwsub:kiosks  a   <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "kiosks" .
+
+uwsub:kitchens  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "kitchens" .
+
+uwsub:kokoshniksgables
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "kokoshniks (gables)" .
+
+uwsub:kovshi  a   <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "kovshi" .
+
+uwsub:ladders  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "ladders" .
+
+uwsub:lakesbodiesofwater
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "lakes (bodies of water)" .
+
+uwsub:lampposts  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "lampposts" .
+
+uwsub:lampslightingdevices
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "lamps (lighting devices)" .
+
+uwsub:landingsstaircomponents
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "landings (stair components)" .
+
+uwsub:landmarks  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "landmarks" .
+
+uwsub:landscapesenvironments
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "landscapes (environments)" .
+
+uwsub:lanternlights  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "lantern lights" .
+
+uwsub:lanternsroofappendages
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "lanterns (roof appendages)" .
+
+uwsub:latticewindows  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "lattice windows" .
+
+uwsub:lattices  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "lattices" .
+
+uwsub:leafscrolls  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "leaf scrolls" .
+
+uwsub:lean-tos  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "lean-tos" .
+
+uwsub:lecterns  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "lecterns" .
+
+uwsub:legislativebuildings
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "legislative buildings" .
+
+uwsub:lemekhi  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "lemekhi" .
+
+uwsub:librariesbuildings
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "libraries (buildings)" .
+
+uwsub:lightingfixtures
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "lighting fixtures" .
+
+uwsub:lights  a   <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "lights" .
+
+uwsub:limestone  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "limestone" .
+
+uwsub:livestock  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "livestock" .
+
+uwsub:livingrooms  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "living rooms" .
+
+uwsub:loadingdocks  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "loading docks" .
+
+uwsub:lobbies  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "lobbies" .
+
+uwsub:lockssecuringdevices
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "locks (securing devices)" .
+
+uwsub:logwood  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "log (wood)" .
+
+uwsub:logcabinshouses
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "log cabins (houses)" .
+
+uwsub:logconstruction
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "log construction" .
+
+uwsub:loghouses  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "log houses" .
+
+uwsub:logos  a    <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "logos" .
+
+uwsub:loomstextiletools
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "looms (textile tools)" .
+
+uwsub:loopwindows  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "loop windows" .
+
+uwsub:loopholes  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "loopholes" .
+
+uwsub:lumber  a   <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "lumber" .
+
+uwsub:machicolations  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "machicolations" .
+
+uwsub:mailchutes  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "mail chutes" .
+
+uwsub:mailboxes  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "mailboxes" .
+
+uwsub:mansardroofs  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "mansard roofs" .
+
+uwsub:mansions  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "mansions" .
+
+uwsub:marblerock  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "marble (rock)" .
+
+uwsub:marinas  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "marinas" .
+
+uwsub:marineterminals
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "marine terminals" .
+
+uwsub:markersmonuments
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "markers (monuments)" .
+
+uwsub:marketsevents  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "markets (events)" .
+
+uwsub:marquees  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "marquees" .
+
+uwsub:marshes  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "marshes" .
+
+uwsub:masts  a    <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "masts" .
+
+uwsub:mausoleums  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "mausoleums" .
+
+uwsub:meadows  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "meadows" .
+
+uwsub:mechanicalclocks
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "mechanical clocks" .
+
+uwsub:mercantilebuildings
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "mercantile buildings" .
+
+uwsub:metalworkvisualworks
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "metalwork (visual works)" .
+
+uwsub:mezzanines  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "mezzanines" .
+
+uwsub:militaryvehicles
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "military vehicles" .
+
+uwsub:millsbuildings  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "mills (buildings)" .
+
+uwsub:millsequipment  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "mills (equipment)" .
+
+uwsub:minarets  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "minarets" .
+
+uwsub:mirrors  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "mirrors" .
+
+uwsub:mixedmedia  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "mixed media" .
+
+uwsub:modelsrepresentations
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "models (representations)" .
+
+uwsub:modillions  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "modillions" .
+
+uwsub:moldingsobjectcomponents
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "moldings (object components)" .
+
+uwsub:monitorsroofappendages
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "monitors (roof appendages)" .
+
+uwsub:monumentalpillars
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "monumental pillars" .
+
+uwsub:monuments  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "monuments" .
+
+uwsub:mortarfiller  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "mortar (filler)" .
+
+uwsub:mortarsgrindingtools
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "mortars (grinding tools)" .
+
+uwsub:mosaicsvisualworks
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "mosaics (visual works)" .
+
+uwsub:mosquesbuildings
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "mosques (buildings)" .
+
+uwsub:motifs  a   <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "motifs" .
+
+uwsub:motionpicturetheaters
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "motion picture theaters" .
+
+uwsub:mountains  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "mountains" .
+
+uwsub:mullionedwindows
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "mullioned windows" .
+
+uwsub:municipalbuildings
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "municipal buildings" .
+
+uwsub:muntins  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "muntins" .
+
+uwsub:muralpaintingsvisualworks
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "mural paintings (visual works)" .
+
+uwsub:museumsbuildings
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "museums (buildings)" .
+
+uwsub:mushrooms  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "mushrooms" .
+
+uwsub:narthexes  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "narthexes" .
+
+uwsub:naturalelementmotifs
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "natural element motifs" .
+
+uwsub:naturallandscapes
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "natural landscapes" .
+
+uwsub:naves  a    <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "naves" .
+
+uwsub:needlespires  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "needle spires" .
+
+uwsub:nettextile  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "net (textile)" .
+
+uwsub:newsstands  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "newsstands" .
+
+uwsub:niches  a   <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "niches" .
+
+uwsub:nonbearingwalls
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "nonbearing walls" .
+
+uwsub:obelisksmonumentalpillars
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "obelisks (monumental pillars)" .
+
+uwsub:octagonal  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "octagonal" .
+
+uwsub:oculiopenings  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "oculi (openings)" .
+
+uwsub:officebuildings
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "office buildings" .
+
+uwsub:ogeearches  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "ogee arches" .
+
+uwsub:olivewood  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "olive (wood)" .
+
+uwsub:oniondomes  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "onion domes" .
+
+uwsub:openspaces  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "open spaces" .
+
+uwsub:open-airmuseums
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "open-air museums" .
+
+uwsub:open-timberedroofs
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "open-timbered roofs" .
+
+uwsub:openingsarchitecturalelements
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "openings (architectural elements)" .
+
+uwsub:opusmixtum  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "opus mixtum" .
+
+uwsub:orchards  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "orchards" .
+
+uwsub:orchestrasaudiencespaces
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "orchestras (audience spaces)" .
+
+uwsub:oreillon  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "oreillon" .
+
+uwsub:orielwindows  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "oriel windows" .
+
+uwsub:outbuildings  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "outbuildings" .
+
+uwsub:ovensbakingequipment
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "ovens (baking equipment)" .
+
+uwsub:overdoors  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "overdoors" .
+
+uwsub:overhangs  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "overhangs" .
+
+uwsub:paintedglassvisualworks
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "painted glass (visual works)" .
+
+uwsub:paintingsvisualworks
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "paintings (visual works)" .
+
+uwsub:palaces  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "palaces" .
+
+uwsub:paneling  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "paneling" .
+
+uwsub:panelssurfacecomponents
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "panels (surface components)" .
+
+uwsub:panoramas  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "panoramas" .
+
+uwsub:papermills  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "paper mills" .
+
+uwsub:parapets  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "parapets" .
+
+uwsub:parishhouses  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "parish houses" .
+
+uwsub:parkinglots  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "parking lots" .
+
+uwsub:parksrecreationareas
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "parks (recreation areas)" .
+
+uwsub:parquetry  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "parquetry" .
+
+uwsub:parvises  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "parvises" .
+
+uwsub:passagescirculationspaces
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "passages (circulation spaces)" .
+
+uwsub:passengercarsrailroadcars
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "passenger cars (railroad cars)" .
+
+uwsub:passengertrains
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "passenger trains" .
+
+uwsub:paths  a    <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "paths" .
+
+uwsub:patternsdesignelements
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "patterns (design elements)" .
+
+uwsub:pavilionsbuildingdivisions
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "pavilions (building divisions)" .
+
+uwsub:pavilionsgardenstructures
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "pavilions (garden structures)" .
+
+uwsub:pavingstone  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "paving stone" .
+
+uwsub:pedestals  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "pedestals" .
+
+uwsub:pediments  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "pediments" .
+
+uwsub:pendentives  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "pendentives" .
+
+uwsub:penthousesbuildingdivisions
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "penthouses (building divisions)" .
+
+uwsub:perdime  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "perdime" .
+
+uwsub:pestles  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "pestles" .
+
+uwsub:photographs  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "photographs" .
+
+uwsub:pianos  a   <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "pianos" .
+
+uwsub:picketfences  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "picket fences" .
+
+uwsub:picnictables  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "picnic tables" .
+
+uwsub:pictorialmaps  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "pictorial maps" .
+
+uwsub:piers  a    <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "piers" .
+
+uwsub:piersmarinelandings
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "piers (marine landings)" .
+
+uwsub:pierssupportingelements
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "piers (supporting elements)" .
+
+uwsub:pilasters  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "pilasters" .
+
+uwsub:pilastrades  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "pilastrades" .
+
+uwsub:pillars  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "pillars" .
+
+uwsub:pilothouses  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "pilothouses" .
+
+uwsub:pipingplumbingsystemcomponents
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "piping (plumbing system components)" .
+
+uwsub:pitchedroofs  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "pitched roofs" .
+
+uwsub:plankconstruction
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "plank construction" .
+
+uwsub:plant-derivedmotifs
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "plant-derived motifs" .
+
+uwsub:planterscontainers
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "planters (containers)" .
+
+uwsub:plaquesflatobjects
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "plaques (flat objects)" .
+
+uwsub:platformroofs  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "platform roofs" .
+
+uwsub:platforms  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "platforms" .
+
+uwsub:playgrounds  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "playgrounds" .
+
+uwsub:plinthcourses  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "plinth courses" .
+
+uwsub:plinths  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "plinths" .
+
+uwsub:pointedarches  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "pointed arches" .
+
+uwsub:politsy  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "politsy" .
+
+uwsub:pondswater  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "ponds (water)" .
+
+uwsub:porches  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "porches" .
+
+uwsub:portals  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "portals" .
+
+uwsub:porticoes  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "porticoes" .
+
+uwsub:portraits  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "portraits" .
+
+uwsub:posters  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "posters" .
+
+uwsub:postsstructuralelements
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "posts (structural elements)" .
+
+uwsub:potscontainers  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "pots (containers)" .
+
+uwsub:poval  a    <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "poval" .
+
+uwsub:powerlines  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "power lines" .
+
+uwsub:producestands  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "produce stands" .
+
+uwsub:prosceniumarches
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "proscenium arches" .
+
+uwsub:protheses  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "protheses" .
+
+uwsub:publicbaths  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "public baths" .
+
+uwsub:pulpits  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "pulpits" .
+
+uwsub:pyramidalroofs  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "pyramidal roofs" .
+
+uwsub:pyramidstombsorplatforms
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "pyramids (tombs or platforms)" .
+
+uwsub:quarriesextractingcomplexes
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "quarries (extracting complexes)" .
+
+uwsub:quarter-roundlights
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "quarter-round lights" .
+
+uwsub:quatrefoils  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "quatrefoils" .
+
+uwsub:quays  a    <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "quays" .
+
+uwsub:quillpens  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "quill pens" .
+
+uwsub:quilts  a   <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "quilts" .
+
+uwsub:quoins  a   <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "quoins" .
+
+uwsub:radiators  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "radiators" .
+
+uwsub:radiotowers  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "radio towers" .
+
+uwsub:rafters  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "rafters" .
+
+uwsub:railfences  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "rail fences" .
+
+uwsub:railingsbalustrades
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "railings (balustrades)" .
+
+uwsub:railroadbridges
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "railroad bridges" .
+
+uwsub:railroadcars  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "railroad cars" .
+
+uwsub:railroadstations
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "railroad stations" .
+
+uwsub:rakingmoldings  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "raking moldings" .
+
+uwsub:rampscirculationelements
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "ramps (circulation elements)" .
+
+uwsub:rattles  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "rattles" .
+
+uwsub:recessedbalconies
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "recessed balconies" .
+
+uwsub:rectories  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "rectories" .
+
+uwsub:refectories  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "refectories" .
+
+uwsub:reinforcingbars
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "reinforcing bars" .
+
+uwsub:reliefssculptures
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "reliefs (sculptures)" .
+
+uwsub:religiousbuildings
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "religious buildings" .
+
+uwsub:residentialstructures
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "residential structures" .
+
+uwsub:responds  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "responds" .
+
+uwsub:restaurants  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "restaurants" .
+
+uwsub:restorationprocess
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "restoration (process)" .
+
+uwsub:restorers  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "restorers" .
+
+uwsub:retailstores  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "retail stores" .
+
+uwsub:retainingwalls  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "retaining walls" .
+
+uwsub:ribbeddomes  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "ribbed domes" .
+
+uwsub:ribbedvaults  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "ribbed vaults" .
+
+uwsub:ribbonwindows  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "ribbon windows" .
+
+uwsub:ribsdomeorvaultcomponents
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "ribs (dome or vault components)" .
+
+uwsub:ridgeboards  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "ridgeboards" .
+
+uwsub:riverbanks  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "riverbanks" .
+
+uwsub:riverfronts  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "riverfronts" .
+
+uwsub:rivers  a   <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "rivers" .
+
+uwsub:roadhouses  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "roadhouses" .
+
+uwsub:roads  a    <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "roads" .
+
+uwsub:roofgardens  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "roof gardens" .
+
+uwsub:rooftops  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "rooftops" .
+
+uwsub:roofs  a    <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "roofs" .
+
+uwsub:roomdividers  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "room dividers" .
+
+uwsub:rope  a     <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "rope" .
+
+uwsub:rosewindows  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "rose windows" .
+
+uwsub:rosettemotif  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "rosette (motif)" .
+
+uwsub:rotundasbuildings
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "rotundas (buildings)" .
+
+uwsub:rotundasinteriorspaces
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "rotundas (interior spaces)" .
+
+uwsub:roundtowers  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "round towers" .
+
+uwsub:roundelscircularpanels
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "roundels (circular panels)" .
+
+uwsub:royaldoors  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "royal doors" .
+
+uwsub:rubblework  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "rubblework" .
+
+uwsub:ruins  a    <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "ruins" .
+
+uwsub:runnersfloorcoverings
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "runners (floor coverings)" .
+
+uwsub:runningornament
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "running ornament" .
+
+uwsub:rustication  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "rustication" .
+
+uwsub:sacredgroves  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "sacred groves" .
+
+uwsub:sacredstones  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "sacred stones" .
+
+uwsub:sailboats  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "sailboats" .
+
+uwsub:salons  a   <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "salons" .
+
+uwsub:samovars  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "samovars" .
+
+uwsub:sanctuariesreligiousbuildingspaces
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "sanctuaries (religious building spaces)" .
+
+uwsub:sandbars  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "sand bars" .
+
+uwsub:sarcophagicoffins
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "sarcophagi (coffins)" .
+
+uwsub:sashesquiltcomponents
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "sashes (quilt components)" .
+
+uwsub:satellitehomeantennas
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "satellite home antennas" .
+
+uwsub:sawhorses  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "sawhorses" .
+
+uwsub:saws  a     <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "saws" .
+
+uwsub:sawtoothroofs  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "sawtooth roofs" .
+
+uwsub:scaffolds  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "scaffolds" .
+
+uwsub:scalloping  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "scalloping" .
+
+uwsub:scarpsfortificationelements
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "scarps (fortification elements)" .
+
+uwsub:schoolsbuildings
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "schools (buildings)" .
+
+uwsub:screendoors  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "screen doors" .
+
+uwsub:screenfacades  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "screen façades" .
+
+uwsub:screenedporches
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "screened porches" .
+
+uwsub:screensfurniture
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "screens (furniture)" .
+
+uwsub:scrolledpediments
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "scrolled pediments" .
+
+uwsub:scuppers  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "scuppers" .
+
+uwsub:seating  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "seating" .
+
+uwsub:seawalls  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "seawalls" .
+
+uwsub:segmentalarches
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "segmental arches" .
+
+uwsub:segmentalpediments
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "segmental pediments" .
+
+uwsub:semicirculararches
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "semicircular arches" .
+
+uwsub:sepulchralmonuments
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "sepulchral monuments" .
+
+uwsub:shaftscolumncomponents
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "shafts (column components)" .
+
+uwsub:shaftstoolcomponents
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "shafts (tool components)" .
+
+uwsub:shedroofs  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "shed roofs" .
+
+uwsub:shedsstoragestructures
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "sheds (storage structures)" .
+
+uwsub:sheetmetal  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "sheet metal" .
+
+uwsub:shelves  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "shelves" .
+
+uwsub:shepherds  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "shepherds" .
+
+uwsub:shingle  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "shingle" .
+
+uwsub:shiplapsiding  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "shiplap siding" .
+
+uwsub:ships  a    <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "ships" .
+
+uwsub:shopsigns  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "shop signs" .
+
+uwsub:shoreslandforms
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "shores (landforms)" .
+
+uwsub:showcases  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "showcases" .
+
+uwsub:shrinesstructures
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "shrines (structures)" .
+
+uwsub:shrubs  a   <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "shrubs" .
+
+uwsub:shuttersopeningcomponents
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "shutters (opening components)" .
+
+uwsub:sickles  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "sickles" .
+
+uwsub:sidegables  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "side gables" .
+
+uwsub:sidewalks  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "sidewalks" .
+
+uwsub:sidingmaterial  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "siding (material)" .
+
+uwsub:signage  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "signage" .
+
+uwsub:signsdeclatoryoradvertisingartifacts
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "signs (declatory or advertising artifacts)" .
+
+uwsub:silhouettes  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "silhouettes" .
+
+uwsub:silosagriculturalstructures
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "silos (agricultural structures)" .
+
+uwsub:single-hungwindows
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "single-hung windows" .
+
+uwsub:sittingrooms  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "sitting rooms" .
+
+uwsub:skirt-roofs  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "skirt-roofs" .
+
+uwsub:skybridges  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "skybridges" .
+
+uwsub:skylights  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "skylights" .
+
+uwsub:sleds  a    <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "sleds" .
+
+uwsub:sleighs  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "sleighs" .
+
+uwsub:slidingwindows  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "sliding windows" .
+
+uwsub:sluices  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "sluices" .
+
+uwsub:smokestacks  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "smokestacks" .
+
+uwsub:snowprecipitation
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "snow (precipitation)" .
+
+uwsub:snowflakes  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "snowflakes" .
+
+uwsub:sofas  a    <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "sofas" .
+
+uwsub:soffits  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "soffits" .
+
+uwsub:soldiersmonuments
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "soldiers' monuments" .
+
+uwsub:spinningwheels  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "spinning wheels" .
+
+uwsub:spiralsgeometricfigures
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "spirals (geometric figures)" .
+
+uwsub:spirelets  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "spirelets" .
+
+uwsub:spires  a   <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "spires" .
+
+uwsub:springsbodiesofwater
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "springs (bodies of water)" .
+
+uwsub:squaresopenspaces
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "squares (open spaces)" .
+
+uwsub:squinches  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "squinches" .
+
+uwsub:stablesanimalhousing
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "stables (animal housing)" .
+
+uwsub:stagesperformancespaces
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "stages (performance spaces)" .
+
+uwsub:stainedglassvisualworks
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "stained glass (visual works)" .
+
+uwsub:stairtowers  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "stair towers" .
+
+uwsub:stairs  a   <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "stairs" .
+
+uwsub:stairwells  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "stairwells" .
+
+uwsub:stakespointedobjects
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "stakes (pointed objects)" .
+
+uwsub:stallsstablespaces
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "stalls (stable spaces)" .
+
+uwsub:standsmercantilestructures
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "stands (mercantile structures)" .
+
+uwsub:starsmotifs  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "stars (motifs)" .
+
+uwsub:statues  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "statues" .
+
+uwsub:steambaths  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "steam baths" .
+
+uwsub:steeplesbuildingcomponents
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "steeples (building components)" .
+
+uwsub:stepsstairunits
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "steps (stair units)" .
+
+uwsub:sterns  a   <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "sterns" .
+
+uwsub:stiltsstructuralelements
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "stilts (structural elements)" .
+
+uwsub:stoneworkedrock
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "stone (worked rock)" .
+
+uwsub:stoolsseatingfurniture
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "stools (seating furniture)" .
+
+uwsub:stoopsuncoveredspaces
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "stoops (uncovered spaces)" .
+
+uwsub:storagefacilities
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "storage facilities" .
+
+uwsub:storefronts  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "storefronts" .
+
+uwsub:storehouses  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "storehouses" .
+
+uwsub:stores  a   <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "stores" .
+
+uwsub:stormdrains  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "storm drains" .
+
+uwsub:stovesheatingequipment
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "stoves (heating equipment)" .
+
+uwsub:straits  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "straits" .
+
+uwsub:streams  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "streams" .
+
+uwsub:streetlightingluminaires
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "street lighting luminaires" .
+
+uwsub:streetlightingunits
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "street lighting units" .
+
+uwsub:streetscenes  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "street scenes" .
+
+uwsub:streetcars  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "streetcars" .
+
+uwsub:streets  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "streets" .
+
+uwsub:streetscapes  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "streetscapes" .
+
+uwsub:stringcourses  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "stringcourses" .
+
+uwsub:structuralframes
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "structural frames" .
+
+uwsub:structuressinglebuiltworks
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "structures (single built works)" .
+
+uwsub:students  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "students" .
+
+uwsub:studiesrooms  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "studies (rooms)" .
+
+uwsub:studiosworkspaces
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "studios (work spaces)" .
+
+uwsub:stupas  a   <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "stupas" .
+
+uwsub:submarines  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "submarines" .
+
+uwsub:substructures  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "substructures" .
+
+uwsub:superstructures
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "superstructures" .
+
+uwsub:surrounds  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "surrounds" .
+
+uwsub:surveillancecameras
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "surveillance cameras" .
+
+uwsub:swamps  a   <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "swamps" .
+
+uwsub:swings  a   <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "swings" .
+
+uwsub:tablelamps  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "table lamps" .
+
+uwsub:tableaucurtains
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "tableau curtains" .
+
+uwsub:tablecloths  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "tablecloths" .
+
+uwsub:tablessupportfurniture
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "tables (support furniture)" .
+
+uwsub:taigas  a   <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "taigas" .
+
+uwsub:tallcaseclocks  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "tall case clocks" .
+
+uwsub:tanksmilitaryvehicles
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "tanks (military vehicles)" .
+
+uwsub:tapestries  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "tapestries" .
+
+uwsub:teakettles  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "teakettles" .
+
+uwsub:telephonebooths
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "telephone booths" .
+
+uwsub:telephonepoles  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "telephone poles" .
+
+uwsub:telephones  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "telephones" .
+
+uwsub:televisiontelecommunicationsystem
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "television (telecommunication system)" .
+
+uwsub:televisiontowers
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "television towers" .
+
+uwsub:templesbuildings
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "temples (buildings)" .
+
+uwsub:tentroofs  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "tent roofs" .
+
+uwsub:tentsportablebuildings
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "tents (portable buildings)" .
+
+uwsub:terminalsbuildings
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "terminals (buildings)" .
+
+uwsub:terraceslandscaped-siteelements
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "terraces (landscaped-site elements)" .
+
+uwsub:textilesvisualworks
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "textiles (visual works)" .
+
+uwsub:theatersbuildings
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "theaters (buildings)" .
+
+uwsub:theologicalseminariesbuildings
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "theological seminaries (buildings)" .
+
+uwsub:tierods  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "tie rods" .
+
+uwsub:tiersrows  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "tiers (rows)" .
+
+uwsub:tires  a    <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "tires" .
+
+uwsub:tombstonessepulchralmonuments
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "tombstones (sepulchral monuments)" .
+
+uwsub:toolsandequipment
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "tools and equipment" .
+
+uwsub:towersbuildingdivisions
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "towers (building divisions)" .
+
+uwsub:towerssinglebuiltworks
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "towers (single built works)" .
+
+uwsub:townscapesbuiltenvironment
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "townscapes (built environment)" .
+
+uwsub:tracery  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "tracery" .
+
+uwsub:trackstransitsystemelements
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "tracks (transit system elements)" .
+
+uwsub:tractorsagriculturalequipment
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "tractors (agricultural equipment)" .
+
+uwsub:trafficislands  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "traffic islands" .
+
+uwsub:trafficsignals  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "traffic signals" .
+
+uwsub:trafficsigns  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "traffic signs" .
+
+uwsub:trainsvehiclegroupings
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "trains (vehicle groupings)" .
+
+uwsub:transmissiontowers
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "transmission towers" .
+
+uwsub:transomwindows  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "transom windows" .
+
+uwsub:transomsopeningcomponents
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "transoms (opening components)" .
+
+uwsub:transportationbuildings
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "transportation buildings" .
+
+uwsub:trapstrappingequipment
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "traps (trapping equipment)" .
+
+uwsub:trees  a    <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "trees" .
+
+uwsub:trefoilsgeometricmotifs
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "trefoils (geometric motifs)" .
+
+uwsub:trimmingmaterial
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "trimming (material)" .
+
+uwsub:trucks  a   <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "trucks" .
+
+uwsub:tubesobjectforms
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "tubes (object forms)" .
+
+uwsub:tugboats  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "tugboats" .
+
+uwsub:tunnels  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "tunnels" .
+
+uwsub:turretstowers  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "turrets (towers)" .
+
+uwsub:umbrellas  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "umbrellas" .
+
+uwsub:uprightpianos  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "upright pianos" .
+
+uwsub:urbanlandscapes
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "urban landscapes" .
+
+uwsub:urns  a     <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "urns" .
+
+uwsub:utilitypoles  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "utility poles" .
+
+uwsub:valleyslandforms
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "valleys (landforms)" .
+
+uwsub:valleysroofcomponents
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "valleys (roof components)" .
+
+uwsub:vaultsstructuralelements
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "vaults (structural elements)" .
+
+uwsub:ventsoutlets  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "vents (outlets)" .
+
+uwsub:verges  a   <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "verges" .
+
+uwsub:vermiculation  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "vermiculation" .
+
+uwsub:vestibules  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "vestibules" .
+
+uwsub:villages  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "villages" .
+
+uwsub:votiveofferings
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "votive offerings" .
+
+uwsub:voussoirs  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "voussoirs" .
+
+uwsub:waitingrooms  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "waiting rooms" .
+
+uwsub:walkways  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "walkways" .
+
+uwsub:wallclocks  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "wall clocks" .
+
+uwsub:walltiletile  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "wall tile (tile)" .
+
+uwsub:walltowers  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "wall towers" .
+
+uwsub:wallpapers  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "wallpapers" .
+
+uwsub:walls  a    <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "walls" .
+
+uwsub:warmemorials  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "war memorials" .
+
+uwsub:warehouses  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "warehouses" .
+
+uwsub:watermills  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "water mills" .
+
+uwsub:waterstoragetanks
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "water storage tanks" .
+
+uwsub:watertowers  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "water towers" .
+
+uwsub:watercraft  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "watercraft" .
+
+uwsub:waterfronts  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "waterfronts" .
+
+uwsub:waterspouts  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "waterspouts" .
+
+uwsub:weathervanes  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "weathervanes" .
+
+uwsub:wellsstructures
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "wells (structures)" .
+
+uwsub:wheelscomponents
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "wheels (components)" .
+
+uwsub:wigwams  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "wigwams" .
+
+uwsub:windmills  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "windmills" .
+
+uwsub:windowcaps  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "window caps" .
+
+uwsub:windowframes  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "window frames" .
+
+uwsub:windowguards  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "window guards" .
+
+uwsub:windowheads  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "window heads" .
+
+uwsub:windowlocks  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "window locks" .
+
+uwsub:windowmoldings  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "window moldings" .
+
+uwsub:windowsills  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "window sills" .
+
+uwsub:windows  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "windows" .
+
+uwsub:wingsbuildingdivisions
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "wings (building divisions)" .
+
+uwsub:woodplantmaterial
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "wood (plant material)" .
+
+uwsub:woodsheds  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "woodsheds" .
+
+uwsub:workers  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "workers" .
+
+uwsub:workshopsseminars
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "workshops (seminars)" .
+
+uwsub:writingboardstablets
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "writing boards (tablets)" .
+
+uwsub:yokesanimalequipment
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "yokes (animal equipment)" .
+
+uwsub:yurts  a    <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "yurts" .
+
+uwsub:zakomariesgables
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "zakomaries (gables)" .
+
+uwsub:almshousesbuildings
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "almshouses (buildings)" .
+
+uwsub:exvotosreligiousvisualworks
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "ex-votos (religious visual works)" .
+
+uwsub:altarsreligiousfixtures
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "altars (religious fixtures)" .
+
+uwsub:animalhousingfarmstructures
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "animal housing (farm structures)" .
+
+uwsub:antlersanimalcomponents
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "antlers (animal components)" .
+
+uwsub:architecturalordersassemblyandstyle
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "architectural orders (assembly and style)" .
+
+uwsub:architravesentablature
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "architraves (entablature)" .
+
+uwsub:banksinstitutions
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "banks (institutions)" .
+
+uwsub:bazaarsmarketplaces
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "bazaars (marketplaces)" .
+
+uwsub:bodiesofwaternatural
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "bodies of water (natural)" .
+
+uwsub:bracesarchitecturalsupportingelements
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "braces (architectural supporting elements)" .
+
+uwsub:brickclaymaterial
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "brick (clay material)" .
+
+uwsub:canalswaterways
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "canals (waterways)" .
+
+uwsub:Capragenus  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "Capra (genus)" .
+
+uwsub:chairsfurnitureforms
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "chairs (furniture forms)" .
+
+uwsub:cityscapesrepresentations
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "cityscapes (representations)" .
+
+uwsub:clocktowerstowers
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "clock towers (towers)" .
+
+uwsub:containersreceptacles
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "containers (receptacles)" .
+
+uwsub:conventsbuiltcomplexes
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "convents (built complexes)" .
+
+uwsub:cornersobjectportions
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "corners (object portions)" .
+
+uwsub:countersfurniture
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "counters (furniture)" .
+
+uwsub:crescentsmotifs
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "crescents (motifs)" .
+
+uwsub:demolitionprocess
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "demolition (process)" .
+
+uwsub:dishesvesselsforfood
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "dishes (vessels for food)" .
+
+uwsub:dockswaterfrontspaces
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "docks (waterfront spaces)" .
+
+uwsub:estatesresidentialcomplexes
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "estates (residential complexes)" .
+
+uwsub:estatesaggregateproperty
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "estates (aggregate property)" .
+
+uwsub:brazierscookingheatingequipment
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "braziers (cooking, heating equipment)" .
+
+uwsub:fencessiteelements
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "fences (site elements)" .
+
+uwsub:fishanimals  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "fish (animals)" .
+
+uwsub:floorplansformattributes
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "floor plans (form attributes)" .
+
+uwsub:flowerplantmaterial
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "flower (plant material)" .
+
+uwsub:forestsculturallandscapes
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "forests (cultural landscapes)" .
+
+uwsub:fragmentsobjectportions
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "fragments (object portions)" .
+
+uwsub:framesprotectivefurnishings
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "frames (protective furnishings)" .
+
+uwsub:furnishingsworks
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "furnishings (works)" .
+
+uwsub:gardensopenspaces
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "gardens (open spaces)" .
+
+uwsub:headstonestombstones
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "headstones (tombstones)" .
+
+uwsub:historichousemuseumsbuildings
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "historic house museums (buildings)" .
+
+uwsub:islandslandforms
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "islands (landforms)" .
+
+uwsub:lanternslightingdevices
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "lanterns (lighting devices)" .
+
+uwsub:lintelsspanningelements
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "lintels (spanning elements)" .
+
+uwsub:lunetteswallcomponents
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "lunettes (wall components)" .
+
+uwsub:machinesgeneralequipment
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "machines (general equipment)" .
+
+uwsub:mapsdocuments  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "maps (documents)" .
+
+uwsub:masonrybuildingmaterials
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "masonry (building materials)" .
+
+uwsub:memorialsmonuments
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "memorials (monuments)" .
+
+uwsub:monasteriesbuiltcomplexes
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "monasteries (built complexes)" .
+
+uwsub:monasticchurchesbuildings
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "monastic churches (buildings)" .
+
+uwsub:ornamentsobjectgenre
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "ornaments (object genre)" .
+
+uwsub:orphanagesbuildings
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "orphanages (buildings)" .
+
+uwsub:peopleagents  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "people (agents)" .
+
+uwsub:pierglasseswallmirrors
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "pier glasses (wall mirrors)" .
+
+uwsub:plazassquares  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "plazas (squares)" .
+
+uwsub:portssettlements
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "ports (settlements)" .
+
+uwsub:publicbuildingsgovernmentalbuildings
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "public buildings (governmental buildings)" .
+
+uwsub:racetrackscomplexes
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "racetracks (complexes)" .
+
+uwsub:railroadsinfrastructure
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "railroads (infrastructure)" .
+
+uwsub:reconstructionprocess
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "reconstruction (process)" .
+
+uwsub:revetmentsarchitecture
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "revetments (architecture)" .
+
+uwsub:rigginggeneralsupportingequipment
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "rigging (general supporting equipment)" .
+
+uwsub:rockinorganicmaterial
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "rock (inorganic material)" .
+
+uwsub:roomsinteriorspaces
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "rooms (interior spaces)" .
+
+uwsub:rugstextiles  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "rugs (textiles)" .
+
+uwsub:sailsequipment  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "sails (equipment)" .
+
+uwsub:sculpturevisualworks
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "sculpture (visual works)" .
+
+uwsub:sepulchersaltarcomponents
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "sepulchers (altar components)" .
+
+uwsub:shaftsspaces  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "shafts (spaces)" .
+
+uwsub:standssupportobjects
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "stands (support objects)" .
+
+uwsub:swingingdoorsdoors
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "swinging doors (doors)" .
+
+uwsub:tabletsinformationartifacts
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "tablets (information artifacts)" .
+
+uwsub:tankscontainers
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "tanks (containers)" .
+
+uwsub:tilesvisualworks
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "tiles (visual works)" .
+
+uwsub:towerclocksclocks
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "tower clocks (clocks)" .
+
+uwsub:treasuriesbuildings
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "treasuries (buildings)" .
+
+uwsub:troughscontainers
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "troughs (containers)" .
+
+uwsub:trussesstructuralelements
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "trusses (structural elements)" .
+
+uwsub:tympanawallcomponents
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "tympana (wall components)" .
+
+uwsub:universitiesbuildings
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "universities (buildings)" .
+
+uwsub:viewsvisualworks
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "views (visual works)" .
+
+uwsub:vocationalschoolsbuildings
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "vocational schools (buildings)" .
+
+uwsub:waterinorganicmaterial
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "water (inorganic material)" .
+
+uwsub:woodsplantcommunities
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "woods (plant communities)" .
+
+uwsub:woodworkgeneralworks
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "woodwork (general works)" .
+
+uwsub:rudders  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "rudders" .
+
+uwsub:vegetation  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "vegetation" .
+
+uwsub:watchtowers  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "watchtowers" .
+
+uwsub:wharves  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "wharves" .
+
+uwsub:saters  a   <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "šaters" .
+
+uwsub:muralsgeneraldecorationsonwall
+        a         <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "murals (general, decorations on wall)" .
+
+uwsub:episornaments  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "épis (ornaments)" .
+
+uwsub:facades  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "façades" .
+
+uwsub:concreteblocks  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "concrete blocks" .
+
+uwsub:hitchingposts  a  <http://www.w3.org/2004/02/skos/core#Concept> ;
+        vra:name  "hitching posts" .

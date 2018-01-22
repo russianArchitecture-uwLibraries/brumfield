@@ -1,0 +1,12 @@
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/platforms#platform001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies/platformVocab#Platform> .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/platforms#platform001> <http://www.w3.org/2000/01/rdf-schema#label> "SPARQL" .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/platforms#platform002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies/platformVocab#Platform> .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/platforms#platform002> <http://www.w3.org/2000/01/rdf-schema#label> "Fuseki" .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/platforms#platform003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies/platformVocab#Platform> .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/platforms#platform003> <http://www.w3.org/2000/01/rdf-schema#label> "Microsoft Excel" .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/platforms#platform004> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies/platformVocab#Platform> .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/platforms#platform004> <http://www.w3.org/2000/01/rdf-schema#label> "iMacros [Firefox plugin]" .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/platforms#platform005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies/platformVocab#Platform> .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/platforms#platform005> <http://www.w3.org/2000/01/rdf-schema#label> "Open Refine" .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/platforms#platform006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies/platformVocab#Platform> .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/platforms#platform006> <http://www.w3.org/2000/01/rdf-schema#label> "Silk Linked Data Integration Framework" .

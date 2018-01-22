@@ -1,0 +1,19 @@
+@prefix brum: <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix bvoc: <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies/> .
+
+<> a void:DatasetDescription ;
+	dcterms:title "Desciption of the 'Platform Vocabulary'" ;
+	dcterms:description "This resource describes the 'University of Washington Libraries Metadata Platform Vocabulary.'" ;
+	foaf:primaryTopic bvoc:platformVocab.rdf ;
+	dcterms:subject bvoc:platformVocab.rdf .
+
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies/platformVocab.rdf> a void:Dataset ;
+	void:inDataset <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset> ;
+	dcterms:title  "University of Washington Libraries Metadata Platform Vocabulary";
+	dcterms:description:  "This vocabulary lists the classes and properties needed to describe platforms used to process datasets. It is an RDFS vocabulary. The word platforms represents applications, software, scripts, programs, etc. useful in processing datasets. The vocabulary was created for use with 'William Craft Brumfield Russian Architecture Digital Collection RDF Data' where adding information about the tools used to process the data was deemed useful.";
+	dcterms:hasFormat brum:platformVocab.ttl, brum:platformVocab.nt ;
+	void:dataDump  brum:platformVocab.rdf, brum:platformVocab.ttl, brum:platformVocab.nt .
+	

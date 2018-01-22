@@ -6,22 +6,32 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix uwp: <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/platforms#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix uwrecon: <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies/reconciliation#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
 
+brum:subjects a void:DatasetDescription ;
+            dcterms:title "Description of the 'subjects' dataset" ;
+            dcterms:description "This resource describes the 'subjects' dataset in the William Craft Brumfield Russian Architecture Digital Collection RDF Data." ;
+            void:inDataset <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset> ;
+            foaf:primaryTopic brum:subjects.rdf ;
+            dcterms:subject brum:subjects.rdf .
 
-brum:subjects a void:Dataset ;
-            uwrecon:deDuped false ;
+brum:subjects.rdf a void:Dataset ;
+            dcterms:title "William Craft Brumfield Russian Architecture Digital Collection RDF Data subjects dataset" ;
+            dcterms:description "This dataset is a list of all subjects referenced in the 'works' dataset and all the 'photos' datasets in the William Craft Brumfield Russian Architecture Digital Collection RDF Data. For images a 'subject' was any architectural detail pictured (such as 'pediment' or 'iconostasis'); for works (i.e. architectural structures) 'subjects' were irregularly input to represent the type of work (like a 'church' or 'log house).'" ;
+            dcterms:hasFormat brum:subjects.ttl, brum:subjects.nt ;
+            uwrecon:deDuped true ;
             uwrecon:containsEntity skos:Concept ;
-            uwrecon:targetVocab <http://sparql.freeyourmetadata.org/>, <http://vocab.getty.edu/sparql/>, <http://localhost:FAST_headings>, <http://localhost:LCTGM> ; 
-            uwrecon:platform uwp:platform1 , uwp:platform2, uwp:platform5, uwp:platform6  ;
-            uwrecon:processingNote "<http://sparql.freeyourmetadata.org/> requires GRAPH <http://id.loc.gov/authorities/subjects> and is a SPARQL endpoint for LCSH" ;
-            uwrecon:processingNote "FAST headings and LCTGM were dumped locally for the matching process" ;
+            uwrecon:platform uwp:platform1 , uwp:platform2, uwp:platform5 ;
+            uwrecon:processingNote "possible resource: <http://sparql.freeyourmetadata.org/> requires GRAPH <http://id.loc.gov/authorities/subjects> and is a SPARQL endpoint for LCSH" ;
+            uwrecon:processingNote "FAST headings and LCTGM were dumped locally for the matching process; stored on tgispc" ;
             uwrecon:linkPredicateNote "owl:sameAs : use only when a term represented by the source IRI is precisely the term represented by the target IRI. In these cases the target vocabulary is the original source of the term. For example, our subject heading strings were taken from AAT; if we find that term when matching against AAT, we can use owl:sameAs." ;
-            uwrecon:linkPredicateNote "skos:exactMatch : use when the concept represented by the source IRI is is the same as the concept represented by the target IRI even though the concept hierarchies are different. Often the source term will be listed as a cross-referenced term in the target vocabulary, indicating an exact match.<" ;
+            uwrecon:linkPredicateNote "skos:exactMatch : use when the concept represented by the source IRI is is the same as the concept represented by the target IRI even though the concept hierarchies are different. Often the source term will be listed as a cross-referenced term in the target vocabulary, indicating an exact match." ;
             uwrecon:linkPredicateNote "skos:closeMatch : use when the concept represented by the source IRI may not be a skos:exactMatch; for example, when certainty is lacking." ;
             uwrecon:linkPredicateNote "skos:relatedMatch : use when the concept represented by the source IRI is is an associative relationship. Probably will not be needed for brum-LD." ;
             uwrecon:linkPredicateNote "skos:broadMatch : use when the concept represented by the source IRI is a narrower than the concept in the target vocabulary. Probably will not be needed for brum-LD, prefer use of skod:closeMatch." ;
             uwrecon:linkPredicateNote "skos:narrowMatch : use when the concept represented by the source IRI is a broader than the concept in the target vocabulary. Probably will not be needed for brum-LD, prefer use of skod:closeMatch." ;
             void:classPartition [ void:class skos:Concept ] ;
-            void:dataDump brum:subjects.rdf, brum:subjects.ttl ;
+            void:dataDump brum:subjects.rdf, brum:subjects.ttl, brum:subjects.nt ;
             void:inDataset <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset> .
 

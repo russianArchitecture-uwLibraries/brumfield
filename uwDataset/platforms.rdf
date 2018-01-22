@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:uwp="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/platforms#" xmlns:uwpv="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies/platformVocab#">
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/platforms#platform001">
+    <rdf:type rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies/platformVocab#Platform"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/platforms#platform001">
+    <rdfs:label>SPARQL</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/platforms#platform002">
+    <rdf:type rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies/platformVocab#Platform"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/platforms#platform002">
+    <rdfs:label>Fuseki</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/platforms#platform003">
+    <rdf:type rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies/platformVocab#Platform"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/platforms#platform003">
+    <rdfs:label>Microsoft Excel</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/platforms#platform004">
+    <rdf:type rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies/platformVocab#Platform"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/platforms#platform004">
+    <rdfs:label>iMacros [Firefox plugin]</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/platforms#platform005">
+    <rdf:type rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies/platformVocab#Platform"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/platforms#platform005">
+    <rdfs:label>Open Refine</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/platforms#platform006">
+    <rdf:type rdf:resource="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies/platformVocab#Platform"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/platforms#platform006">
+    <rdfs:label>Silk Linked Data Integration Framework</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

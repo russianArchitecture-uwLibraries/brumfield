@@ -5,19 +5,31 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix uwp: <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/platforms#> .
+@prefix uwrecon: <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies/reconciliation#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
 
 
-brum:places a void:Dataset ;
+<> a void:DatasetDescription ;
+      dcterms:title "Description of the 'places' dataset" ;
+      dcterms:description "This resource describes the 'places' dataset in the William Craft Brumfield Russian Architecture Digital Collection RDF Data." ;
+      void:inDataset <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset> ;
+      foaf:primaryTopic brum:places.rdf ;
+      dcterms:subject brum:places.rdf .
+
+brum:places.rdf a void:Dataset ;
+		dcterms:title "William Craft Brumfield Russian Architecture Digital Collection RDF Data places dataset" ;
+		dcterms:description "This dataset is a list of all places referenced in the 'works' dataset and all the 'photos' datasets in the William Craft Brumfield Russian Architecture Digital Collection RDF Data." ;
+		dcterms:hasFormat brum:places.ttl, brum:places.nt ; 
             uwrecon:deDuped true ;
             uwrecon:containsEntity vra:City, vra:AdmnistrativeArea, vra:Place, schema:GeoCoord ;
-            uwrecon:targetVocab <http://dbpedia.org/resource/>, <https://ru.wikipedia.org/wiki/</target> ;
+            uwrecon:targetVocab <http://dbpedia.org/resource/>, <https://ru.wikipedia.org/wiki/> ;
             uwrecon:linkPredicate dcterms:isReferencedBy ;
             uwrecon:linkPredicate owl:sameAs ;
             uwrecon:platform uwp:platform1 , uwp:platform2  ;
             void:classPartition [ void:class vra:City ] ;
             void:classPartition [ void:class vra:AdmnistrativeArea ] ;
             void:classPartition [ void:class vra:Place ] ; 
-            void:dataDump brum:places.rdf, brum:places.ttl ;
+            void:dataDump brum:places.rdf, brum:places.ttl, brum:places.nt ;
             void:inDataset <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset> .
 
       

@@ -1,0 +1,4 @@
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/rights#rightsStatement0001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/RightsStatement> .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/rights#rightsStatement0001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> <http://rightsstatements.org/vocab/InC/1.0/> .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/rights#rightsStatement0001> <http://www.w3.org/2000/01/rdf-schema#label> "copyrighted" .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/rights#rightsStatement0001> <http://www.w3.org/2000/01/rdf-schema#label> "Copyright held by William C. Brumfield" .

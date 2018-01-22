@@ -23,9 +23,10 @@ uwrecon:deDuped  rdf:type      rdf:Property ;
                  rdfs:domain   void:Dataset ;
                  rdfs:range     rdfs:Literal ;
                  rdfs:label    "De-dupicated?" ;
-                 rdfs:comment  "Takes a boolean value true of false; decribes whether staff has ensured that each entity in the dataset is descrbed by only one IRI" ; 
+                 rdfs:comment  "Takes a boolean value true of false; decribes whether staff has ensured that each entity in the dataset is descrbed by only one IRI" . 
+#if the value is boolean, than shouldn't the range reflect that? Right not R=rdfs:Literal.
 
-uwrecon:containsEntity   rdf:type      rdf:Property ;
+uwrecon:containsEntity   rdf:type      rdfs:Property ;
                          rdfs:domain   void:Dataset ;
                          rdfs:range    rdfs:Class ;
                          rdfs:label    "Entities in Dataset" ;
@@ -35,13 +36,13 @@ uwrecon:containsEntity   rdf:type      rdf:Property ;
 uwrecon:targetVocab    rdf:type      rdf:Property ;
                         rdfs:doman    void:Dataset ;
                         rdfs:range    rdf:Resource ;
-                        rdfs:label    "Target Datasets Matched"
+                        rdfs:label    "Target Datasets Matched" ;
                         rdfs:comment  "Value should be an identifier for a target vocabulary, prefereably an IRI. The target vocabulary would have been used to find additional descriptions of entities in the source dataset. The properties used to bring the source entities in relation to the target entities are described in uwrecon:linkPredicates. Note that void:target and its subproperties are not available here because they assume the resource being described is a void:Linkset. This property is to create a list of all targets used by a single dataset. This is useful when links are added to the source graph rather than create a new graph that is a void:Linkset. " .
 
 uwrecon:targetVocabSecondary    rdf:type      rdf:Property ;
                         rdfs:doman    void:Dataset ;
                         rdfs:range    rdf:Resource ;
-                        rdfs:label    "Target Datasets Matched Selectively"
+                        rdfs:label    "Target Datasets Matched Selectively" ;
                         rdfs:comment  "Value should be an identifier for a target vocabulary, prefereably an IRI. The target vocabulary would have been used to find additional descriptions of entities in the source dataset. The properties used to bring the source entities in relation to the target entities are described in uwrecon:linkPredicates. THE DIFFERENCE BETWEEN uwrecon:targetVocabSecondary AND uwrecon:targetVocab IS THAT THE FORMER REPRESENTS A VOCABULARY THAT WAS NOT USED BY A MATCHING PROCESS; THE LATTER REPRESENTS A VOCABULARY THAT WAS USED TO COMPARE ENTITIES IN THE SOURCE DATASET SYSTEMATICALLY AND COMPREHENSIVEY TO ENTITIES IN THE TARGET DATASET; consequently the former property will be used rarely in the enriched source dataset, whereas th latter property should appear frequently in the enriched source dataset. Note that void:target and its subproperties are not available here because they assume the resource being described is a void:Linkset. This property is to create a list of all targets used by a single dataset. This is useful when links are added to the source graph rather than create a new graph that is a void:Linkset. " .
 
 uwrecon:linkPredicate     rdf:type     rdf:Property ;

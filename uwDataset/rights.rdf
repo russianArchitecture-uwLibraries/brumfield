@@ -1,9 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
-    <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/rights#rightsStatement0001">
-        <rdf:type rdf:resource="http://purl.org/dc/terms/RightsStatement"/>
-        <rdf:value rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
-        <rdfs:label>copyrighted</rdfs:label>
-        <rdfs:label>Copyright held by William C. Brumfield</rdfs:label>
-    </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/rights#rightsStatement0001">
+    <rdf:type rdf:resource="http://purl.org/dc/terms/RightsStatement"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/rights#rightsStatement0001">
+    <rdf:value rdf:resource="http://rightsstatements.org/vocab/InC/1.0/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/rights#rightsStatement0001">
+    <rdfs:label>copyrighted</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/rights#rightsStatement0001">
+    <rdfs:label>Copyright held by William C. Brumfield</rdfs:label>
+  </rdf:Description>
 </rdf:RDF>

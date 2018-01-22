@@ -1,0 +1,23 @@
+<file:///Users/theodore/Documents/uwl/brumfield/brum-ld/rdf/gitRepo/uwDataset/vocabularies-metadata.ttl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#DatasetDescription> .
+<file:///Users/theodore/Documents/uwl/brumfield/brum-ld/rdf/gitRepo/uwDataset/vocabularies-metadata.ttl> <http://purl.org/dc/terms/title> "Description of the 'vocabularies' dataset collection" .
+<file:///Users/theodore/Documents/uwl/brumfield/brum-ld/rdf/gitRepo/uwDataset/vocabularies-metadata.ttl> <http://purl.org/dc/terms/description> "This resource describes the 'vocabularies' dataset collection in the William Craft Brumfield Russian Architecture Digital Collection RDF Data." .
+<file:///Users/theodore/Documents/uwl/brumfield/brum-ld/rdf/gitRepo/uwDataset/vocabularies-metadata.ttl> <http://rdfs.org/ns/void#inDataset> <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset> .
+<file:///Users/theodore/Documents/uwl/brumfield/brum-ld/rdf/gitRepo/uwDataset/vocabularies-metadata.ttl> <http://xmlns.com/foaf/0.1/primaryTopic> <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies> .
+<file:///Users/theodore/Documents/uwl/brumfield/brum-ld/rdf/gitRepo/uwDataset/vocabularies-metadata.ttl> <http://purl.org/dc/terms/subject> <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies> .
+_:genid1 <http://purl.org/vra/endDate> "2018" .
+_:genid1 <http://purl.org/vra/startDate> "2016" .
+_:genid1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vra/Event> .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies> <http://purl.org/dc/terms/title> "William Craft Brumfield Russian Architecture Digital Collection RDF Data Vocabularies" .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies> <http://purl.org/vra/description> "This is a collection of datasets that serve as linked data vocabularies for the William Craft Brumfield Russian Architecture Digital Collection RDF Data. The vocabularies were created locally as needed; they are either taxonomies listing values intended to be used as the objects of triples, ontology extensions to the well-established ontologies used in the dataset, or locally created ontologies providng classes and properties deemed necessary for describing our resources." .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies> <http://purl.org/dc/terms/creator> <http://id.loc.gov/authorities/names/n79056337> .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies> <http://purl.org/vra/creator> <http://id.loc.gov/authorities/names/n79056337> .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies> <http://schema.org/provider> <http://id.loc.gov/authorities/names/n79056337> .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies> <http://purl.org/vra/wasCreated> _:genid1 .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies> <http://rdfs.org/ns/void#inDataset> <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset> .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies> <http://rdfs.org/ns/void#subset> <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies/platformVocab.ttl> .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies> <http://rdfs.org/ns/void#subset> <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies/platformVocab.rdf> .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies> <http://rdfs.org/ns/void#subset> <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies/platformVocab.nt> .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies> <http://rdfs.org/ns/void#subset> <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies/reconVocab.ttl> .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies> <http://rdfs.org/ns/void#subset> <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies/reconVocab.rdf> .
+<http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies> <http://rdfs.org/ns/void#subset> <http://faculty.washington.edu/tgis/ld/brumfield/uwDataset/vocabularies/reconVocab.nt> .
